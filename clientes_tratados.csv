@@ -1,0 +1,992 @@
+nome,cpf,idade,data,endereco,bairro,estado
+Sr. Vitor Gabriel Silva,640.***.***-01,92.0,1933-12-06,"trevo emanuel silva, 482",Desconhecido,Desconhecido
+Calebe Santos,651.***.***-46,41.0,1984-03-06,"recanto moraes, 7",Desconhecido,Desconhecido
+Maria Julia Castro,164.***.***-43,,2035-04-12,"residencial de pereira, 20",Desconhecido,Desconhecido
+Arthur Da Rosa,085.***.***-30,55.0,1970-04-16,"parque almeida, 66",Desconhecido,Desconhecido
+Juan Pereira,520.***.***-21,69.0,1955-10-25,"rodovia de pereira, 51",Desconhecido,Desconhecido
+Dra. Ana Laura Ribeiro,210.***.***-20,71.0,1954-05-09,esplanada lavínia ramos,Desconhecido,Desconhecido
+Maria Clara Araújo,960.***.***-80,42.0,1983-03-14,"praça cavalcanti, 65",Desconhecido,Desconhecido
+Vitória Oliveira,302.***.***-83,32.0,1993-03-10,"esplanada monteiro, 88",Desconhecido,Desconhecido
+Benjamin Oliveira,451.***.***-84,51.0,1974-05-16,"ladeira monteiro, 57",Desconhecido,Desconhecido
+Pietro Barros,843.***.***-50,53.0,1972-08-19,"recanto luiz miguel jesus, 35",Desconhecido,Desconhecido
+Samuel Cavalcanti,520.***.***-01,90.0,1934-11-26,"ladeira de porto, 38",Desconhecido,Desconhecido
+Ian Da Costa,384.***.***-78,24.0,2001-01-21,"via de jesus, 57",Desconhecido,Desconhecido
+Dr. Emanuel Costa,736.***.***-19,56.0,1969-03-09,"lago castro, 94",Desconhecido,Desconhecido
+Larissa Da Cruz,128.***.***-60,84.0,1940-11-22,"setor isadora da rosa, 583",Desconhecido,Desconhecido
+Diogo Carvalho,078.***.***-97,84.0,1941-03-10,"viaduto pedro lucas cavalcanti, 49",Desconhecido,Desconhecido
+Sr. Anthony Almeida,305.***.***-60,38.0,1987-02-03,"rua vitor hugo pinto, 21",Desconhecido,Desconhecido
+Clara Martins,397.***.***-86,78.0,1947-03-14,"rodovia aragão, 245",Desconhecido,Desconhecido
+Dr. Luiz Felipe Cardoso,374.***.***-20,71.0,1954-07-20,"alameda de lima, 65",Desconhecido,Desconhecido
+Sr. Calebe Lopes,135.***.***-77,64.0,1961-10-19,"trecho lucas sales, 24",Desconhecido,Desconhecido
+Miguel Monteiro,097.***.***-41,55.0,1969-06-27,"passarela igor novaes, 89",Desconhecido,Desconhecido
+Srta. Catarina Da Mata,468.***.***-57,83.0,1942-07-05,"sítio luna carvalho, 98",Desconhecido,Desconhecido
+João Gabriel Araújo,625.***.***-25,75.0,1950-09-13,"esplanada de castro, 4",Desconhecido,Desconhecido
+Sr. Nicolas Azevedo,036.***.***-33,36.0,1989-01-18,"estrada de aragão, 1",Desconhecido,Desconhecido
+Kamilly Caldeira,508.***.***-47,46.0,1979-07-04,via gabriela nascimento,Desconhecido,Desconhecido
+Renan Araújo,186.***.***-57,80.0,1945-03-06,"travessa vinicius da mata, 52",Desconhecido,Desconhecido
+Vicente Nascimento,054.***.***-32,64.0,1961-02-22,largo vieira,Desconhecido,Desconhecido
+Isaac Rocha,873.***.***-69,58.0,1966-11-30,"área lucas gabriel silveira, 51",Desconhecido,Desconhecido
+Julia Das Neves,819.***.***-05,61.0,1963-08-28,"jardim isabelly gomes, 23",Desconhecido,Desconhecido
+Breno Rodrigues,196.***.***-34,96.0,1928-10-24,distrito de silveira,Desconhecido,Desconhecido
+Isabel Nogueira,968.***.***-65,64.0,1960-10-21,travessa ana júlia da rocha,Desconhecido,Desconhecido
+Anthony Araújo,208.***.***-26,40.0,1985-09-07,"avenida milena pires, 360",Desconhecido,Desconhecido
+Sra. Marina Da Cunha,067.***.***-95,57.0,1968-09-09,"rodovia marcelo souza, 25",Desconhecido,Desconhecido
+Helena Cardoso,853.***.***-39,52.0,1972-05-29,"pátio alexandre teixeira, 243",Desconhecido,Desconhecido
+Luigi Nunes,593.***.***-24,52.0,1973-06-17,"via clara da rosa, 928",Desconhecido,Desconhecido
+Srta. Raquel Da Costa,278.***.***-09,60.0,1965-05-07,"estação ribeiro, 46",Desconhecido,Desconhecido
+Sra. Ana Vitória Oliveira,120.***.***-17,62.0,1963-11-01,"sítio de cavalcanti, 97",Desconhecido,Desconhecido
+Luiza Campos,974.***.***-03,53.0,1972-01-13,"condomínio de rodrigues, 52",Desconhecido,Desconhecido
+Lucca Da Paz,526.***.***-95,73.0,1952-04-14,"rodovia vieira, 63",Desconhecido,Desconhecido
+Nathan Da Rosa,907.***.***-25,33.0,1992-11-05,"recanto de da conceição, 1",Desconhecido,Desconhecido
+Lívia Silveira,804.***.***-85,62.0,1962-11-22,"setor de azevedo, 375",Desconhecido,Desconhecido
+Isabel Cavalcanti,492.***.***-04,56.0,1969-05-10,"ladeira pietra cunha, 13",Desconhecido,Desconhecido
+Rafael Nunes,285.***.***-76,39.0,1985-08-28,"vereda davi lucca barbosa, 35",Desconhecido,Desconhecido
+Elisa Fogaça,572.***.***-92,97.0,1928-12-13,"rodovia ana júlia araújo, 68",Desconhecido,Desconhecido
+Agatha Ramos,948.***.***-85,25.0,2000-12-03,"distrito de barros, 41",Desconhecido,Desconhecido
+Kamilly Rocha,946.***.***-48,61.0,1964-09-19,"feira campos, 17",Desconhecido,Desconhecido
+Antônio Das Neves,435.***.***-82,41.0,1983-07-31,"avenida vitor hugo cardoso, 34",Desconhecido,Desconhecido
+Luiz Gustavo Alves,198.***.***-10,47.0,1978-07-08,"rodovia de souza, 63",Desconhecido,Desconhecido
+Emanuella Fernandes,097.***.***-96,88.0,1936-07-21,"residencial ian da paz, 6",Desconhecido,Desconhecido
+Srta. Ana Beatriz Farias,431.***.***-39,64.0,1961-08-07,"ladeira de da paz, 98",Desconhecido,Desconhecido
+Yago Monteiro,865.***.***-00,45.0,1979-06-22,"ladeira pereira, 21",Desconhecido,Desconhecido
+Yasmin Gonçalves,017.***.***-14,77.0,1947-09-26,"área barros, 46",Desconhecido,Desconhecido
+Bruna Nascimento,132.***.***-52,36.0,1989-04-13,"vereda luiz felipe costa, 70",Desconhecido,Desconhecido
+Davi Luiz Nogueira,873.***.***-50,99.0,1926-12-20,"vila sales, 97",Desconhecido,Desconhecido
+Ian Monteiro,324.***.***-91,26.0,1999-12-11,"favela alana ribeiro, 318",Desconhecido,Desconhecido
+Srta. Helena Silva,905.***.***-01,37.0,1988-11-14,"parque freitas, 82",Desconhecido,Desconhecido
+Bárbara Novaes,038.***.***-15,89.0,1935-05-24,"trecho bryan da cunha, 1",Desconhecido,Desconhecido
+Sr. Pedro Lucas Costela,534.***.***-00,31.0,1993-08-24,esplanada moreira,Desconhecido,Desconhecido
+Rafael Jesus,673.***.***-80,24.0,2001-08-16,"campo de barros, 16",Desconhecido,Desconhecido
+Sra. Alícia Caldeira,051.***.***-70,91.0,1934-12-04,"distrito esther campos, 264",Desconhecido,Desconhecido
+Danilo Martins,760.***.***-39,100.0,1925-03-30,"largo pires, 78",Desconhecido,Desconhecido
+Sr. Gabriel Da Rosa,530.***.***-53,51.0,1974-09-10,campo isabelly freitas,Desconhecido,Desconhecido
+Augusto Teixeira,412.***.***-16,71.0,1954-11-15,favela maria novaes,Desconhecido,Desconhecido
+Ana Julia Da Rosa,630.***.***-65,44.0,1981-10-10,"trevo moraes, 5",Desconhecido,Desconhecido
+Lucca Barbosa,836.***.***-77,99.0,1926-06-12,"rua mendes, 337",Desconhecido,Desconhecido
+Amanda Da Costa,268.***.***-29,25.0,2000-11-20,"lagoa cardoso, 1",Desconhecido,Desconhecido
+Dr. Francisco Cardoso,430.***.***-50,97.0,1927-10-30,"lago maitê campos, 31",Desconhecido,Desconhecido
+Lorena Farias,268.***.***-82,94.0,1931-04-17,"residencial barbosa, 44",Desconhecido,Desconhecido
+Anthony Da Costa,935.***.***-97,37.0,1988-02-13,"recanto de rocha, 68",Desconhecido,Desconhecido
+Cauã Rodrigues,107.***.***-87,99.0,1926-02-11,"vale gustavo henrique alves, 50",Desconhecido,Desconhecido
+Anthony Barbosa,631.***.***-00,88.0,1937-08-19,vila farias,Desconhecido,Desconhecido
+Ana Julia Almeida,179.***.***-09,24.0,2001-07-20,"fazenda de porto, 3",Desconhecido,Desconhecido
+Milena Barros,314.***.***-51,75.0,1950-08-04,"setor miguel pires, 3",Desconhecido,Desconhecido
+Murilo Gomes,759.***.***-93,100.0,1924-05-22,morro de castro,Desconhecido,Desconhecido
+Daniel Barbosa,812.***.***-98,30.0,1995-10-05,"praça ferreira, 764",Desconhecido,Desconhecido
+Dr. Samuel Cardoso,039.***.***-96,48.0,1977-03-20,"vereda cauê novaes, 14",Desconhecido,Desconhecido
+Ana Laura Sales,863.***.***-22,79.0,1945-11-24,"fazenda de pinto, 42",Desconhecido,Desconhecido
+Mariana Cunha,492.***.***-25,82.0,1942-07-24,"loteamento luiz felipe teixeira, 87",Desconhecido,Desconhecido
+Sr. João Guilherme Cavalcanti,347.***.***-70,39.0,1985-09-30,"quadra emanuella da conceição, 29",Desconhecido,Desconhecido
+Kamilly Rocha,365.***.***-10,64.0,1960-10-29,"rodovia danilo costa, 17",Desconhecido,Desconhecido
+Gabriel Nunes,940.***.***-04,56.0,1968-11-21,vila stephany lima,Desconhecido,Desconhecido
+Rafael Correia,579.***.***-05,73.0,1952-01-03,"morro de cardoso, 47",Desconhecido,Desconhecido
+Ana Lívia Barbosa,925.***.***-60,63.0,1961-05-30,lagoa sarah azevedo,Desconhecido,Desconhecido
+Maitê Teixeira,694.***.***-39,92.0,1933-05-11,"loteamento oliveira, 29",Desconhecido,Desconhecido
+Carlos Eduardo Santos,937.***.***-37,70.0,1955-03-29,"largo nascimento, 97",Desconhecido,Desconhecido
+Enzo Gabriel Araújo,349.***.***-96,72.0,1953-09-15,Endereço inválido,Desconhecido,Desconhecido
+Breno Moreira,184.***.***-49,41.0,1984-03-23,"aeroporto de das neves, 7",Desconhecido,Desconhecido
+Julia Lopes,106.***.***-31,48.0,1977-02-13,"conjunto de cardoso, 5",Desconhecido,Desconhecido
+André Lima,645.***.***-70,81.0,1944-11-06,viaduto cardoso,Desconhecido,Desconhecido
+João Gabriel Barbosa,190.***.***-67,56.0,1969-02-23,fazenda de barros,Desconhecido,Desconhecido
+,438.***.***-56,23.0,2002-04-13,colônia maria vitória moura,Desconhecido,Desconhecido
+João Felipe Oliveira,830.***.***-00,44.0,1981-10-18,avenida de cardoso,Desconhecido,Desconhecido
+Samuel Vieira,218.***.***-53,41.0,1984-07-02,"lagoa leandro caldeira, 1",Desconhecido,Desconhecido
+Lucca Ferreira,237.***.***-19,87.0,1938-03-30,"esplanada de das neves, 5",Desconhecido,Desconhecido
+Samuel Castro,582.***.***-70,71.0,1954-02-04,"praia eloah da mata, 95",Desconhecido,Desconhecido
+Maria Vitória Teixeira,426.***.***-25,63.0,1962-12-16,"praia carvalho, 7",Desconhecido,Desconhecido
+Maria Fernanda Farias,907.***.***-20,24.0,2001-07-18,"área de correia, 44",Desconhecido,Desconhecido
+Fernanda Sales,879.***.***-32,72.0,1953-02-05,"vale lorenzo almeida, 80",Desconhecido,Desconhecido
+Srta. Eduarda Nogueira,602.***.***-07,67.0,1958-01-13,chácara isadora das neves,Desconhecido,Desconhecido
+Maitê Ferreira,016.***.***-99,66.0,1958-04-24,estação cunha,Desconhecido,Desconhecido
+Catarina Pires,079.***.***-11,48.0,1977-01-28,"loteamento de lima, 1",Desconhecido,Desconhecido
+Manuela Da Rocha,839.***.***-57,75.0,1949-05-21,"alameda de gonçalves, 79",Desconhecido,Desconhecido
+Nina Moura,604.***.***-25,47.0,1977-07-23,"quadra bernardo ferreira, 85",Desconhecido,Desconhecido
+Pedro Henrique Vieira,526.***.***-03,44.0,1981-08-14,"rodovia alícia dias, 58",Desconhecido,Desconhecido
+Ana Clara Cunha,862.***.***-02,38.0,1987-04-09,"rua de cavalcanti, 8",Desconhecido,Desconhecido
+Pietra Santos,508.***.***-67,96.0,1929-06-14,"esplanada de silva, 1",Desconhecido,Desconhecido
+Sr. Theo Da Conceição,284.***.***-14,27.0,1998-10-04,"viaduto de freitas, 12",Desconhecido,Desconhecido
+Vinicius Da Costa,023.***.***-16,67.0,1958-06-03,"recanto valentina pinto, 52",Desconhecido,Desconhecido
+Pedro Henrique Cunha,519.***.***-93,60.0,1965-06-03,"passarela de santos, 501",Desconhecido,Desconhecido
+Davi Nogueira,564.***.***-11,76.0,1949-12-14,"morro lucca da rocha, 40",Desconhecido,Desconhecido
+Luiz Fernando Da Paz,409.***.***-11,81.0,1943-04-30,"praça de da paz, 5",Desconhecido,Desconhecido
+Srta. Letícia Rocha,137.***.***-32,78.0,1947-12-01,"fazenda joão felipe souza, 78",Desconhecido,Desconhecido
+João Nogueira,367.***.***-10,92.0,1933-02-22,"rodovia cauê monteiro, 50",Desconhecido,Desconhecido
+João Gabriel Cardoso,962.***.***-34,55.0,1970-07-13,"área de ferreira, 20",Desconhecido,Desconhecido
+Ryan Ribeiro,409.***.***-48,97.0,1928-12-18,"núcleo almeida, 41",Desconhecido,Desconhecido
+Olivia Das Neves,314.***.***-55,24.0,2001-01-27,"lagoa de vieira, 25",Desconhecido,Desconhecido
+Sr. Luiz Miguel Pinto,942.***.***-76,57.0,1968-04-17,"conjunto da luz, 6",Desconhecido,Desconhecido
+Elisa Teixeira,217.***.***-73,81.0,1944-05-07,"ladeira de rodrigues, 58",Desconhecido,Desconhecido
+Pedro Miguel Das Neves,523.***.***-03,61.0,1964-12-15,"jardim de nascimento, 7",Desconhecido,Desconhecido
+Maria Luiza Azevedo,064.***.***-47,77.0,1947-04-29,"quadra de da cruz, 42",Desconhecido,Desconhecido
+Lorenzo Silva,642.***.***-13,49.0,1976-05-09,"conjunto de da cruz, 1",Desconhecido,Desconhecido
+Bianca Souza,673.***.***-40,98.0,1926-05-25,"colônia francisco campos, 7",Desconhecido,Desconhecido
+Vitor Azevedo,643.***.***-20,72.0,1953-11-01,largo de barbosa,Desconhecido,Desconhecido
+Enzo Gabriel Lima,187.***.***-94,58.0,1967-01-28,aeroporto rezende,Desconhecido,Desconhecido
+Eduarda Cunha,093.***.***-32,61.0,1964-09-17,"campo de pinto, 72",Desconhecido,Desconhecido
+Sra. Nicole Da Rocha,367.***.***-03,81.0,1944-10-10,"setor de ferreira, 742",Desconhecido,Desconhecido
+Ana Clara Santos,430.***.***-04,37.0,1988-04-15,"ladeira de sales, 15",Desconhecido,Desconhecido
+Enzo Gabriel Castro,694.***.***-65,98.0,1927-07-11,ladeira de teixeira,Desconhecido,Desconhecido
+Nicole Ferreira,701.***.***-22,29.0,1996-02-11,"aeroporto duarte, 9",Desconhecido,Desconhecido
+Erick Sales,498.***.***-48,39.0,1986-09-13,"trecho de martins, 51",Desconhecido,Desconhecido
+Anthony Barros,742.***.***-07,43.0,1981-10-24,"vila alexia viana, 87",Desconhecido,Desconhecido
+Renan Da Rocha,986.***.***-10,54.0,1971-03-08,"morro melo, 463",Desconhecido,Desconhecido
+Marcela Santos,843.***.***-42,25.0,1999-12-23,"residencial de aragão, 65",Desconhecido,Desconhecido
+Carolina Melo,970.***.***-05,41.0,1984-06-06,"vereda kamilly da rosa, 80",Desconhecido,Desconhecido
+Lavínia Rezende,946.***.***-70,46.0,1979-08-19,"morro davi luiz correia, 38",Desconhecido,Desconhecido
+Srta. Julia Porto,502.***.***-61,76.0,1948-07-21,"distrito ana laura aragão, 90",Desconhecido,Desconhecido
+Alana Cardoso,572.***.***-41,34.0,1991-04-14,"favela gonçalves, 32",Desconhecido,Desconhecido
+Davi Lucas Cardoso,805.***.***-83,30.0,1995-11-15,"viela da paz, 92",Desconhecido,Desconhecido
+Raul Santos,315.***.***-03,21.0,2004-09-11,"loteamento emanuelly sales, 135",Desconhecido,Desconhecido
+Igor Melo,261.***.***-17,47.0,1978-02-03,"favela oliveira, 67",Desconhecido,Desconhecido
+Joaquim Da Costa,274.***.***-56,78.0,1947-08-10,"condomínio campos, 38",Desconhecido,Desconhecido
+João Felipe Farias,936.***.***-01,29.0,1996-01-11,"estação milena silva, 549",Desconhecido,Desconhecido
+Manuela Almeida,647.***.***-30,76.0,1949-01-27,"feira alice ramos, 3",Desconhecido,Desconhecido
+Ryan Rocha,248.***.***-51,65.0,1959-10-25,"passarela nogueira, 8",Desconhecido,Desconhecido
+Luna Da Conceição,935.***.***-91,97.0,1928-02-19,"campo campos, 82",Desconhecido,Desconhecido
+Manuela Silva,591.***.***-73,20.0,2005-09-01,"jardim beatriz farias, 11",Desconhecido,Desconhecido
+Maria Vitória Das Neves,761.***.***-34,97.0,1928-01-05,lagoa cavalcanti,Desconhecido,Desconhecido
+Marcela Cunha,904.***.***-32,47.0,1978-06-17,"rua sales, 4",Desconhecido,Desconhecido
+Bryan Souza,593.***.***-00,67.0,1958-03-05,"viaduto thales costela, 23",Desconhecido,Desconhecido
+Kevin Cavalcanti,658.***.***-01,49.0,1976-01-29,"distrito maria moraes, 9",Desconhecido,Desconhecido
+Sr. João Gabriel Martins,794.***.***-85,76.0,1949-06-14,"esplanada de moura, 95",Desconhecido,Desconhecido
+Gabriela Da Mata,746.***.***-90,69.0,1956-06-16,"viaduto de peixoto, 16",Desconhecido,Desconhecido
+Srta. Júlia Fernandes,650.***.***-98,50.0,1975-11-19,"condomínio leandro da mota, 20",Desconhecido,Desconhecido
+Bárbara Silveira,386.***.***-04,41.0,1983-12-25,trevo carvalho,Desconhecido,Desconhecido
+Vinicius Jesus,549.***.***-91,91.0,1934-12-08,morro de duarte,Desconhecido,Desconhecido
+Srta. Alice Pires,536.***.***-56,43.0,1982-07-08,"praia ana carolina correia, 11",Desconhecido,Desconhecido
+Lara Ferreira,698.***.***-75,73.0,1951-10-23,"rodovia de fogaça, 96",Desconhecido,Desconhecido
+Felipe Freitas,863.***.***-01,99.0,1925-04-27,"rua duarte, 85",Desconhecido,Desconhecido
+Maysa Pires,852.***.***-11,70.0,1955-10-08,"sítio mariana almeida, 86",Desconhecido,Desconhecido
+Letícia Da Mata,308.***.***-31,49.0,1976-08-04,"aeroporto da paz, 54",Desconhecido,Desconhecido
+Luigi Cunha,623.***.***-34,93.0,1932-01-24,"praia nascimento, 541",Desconhecido,Desconhecido
+Lucas Gabriel Gomes,120.***.***-40,21.0,2004-02-23,"distrito de cardoso, 24",Desconhecido,Desconhecido
+Emanuelly Costela,152.***.***-97,47.0,1977-10-21,"vale de vieira, 67",Desconhecido,Desconhecido
+Calebe Nascimento,631.***.***-87,86.0,1939-02-25,"trecho brenda ferreira, 25",Desconhecido,Desconhecido
+Juan Pires,139.***.***-46,77.0,1948-03-12,"avenida de santos, 89",Desconhecido,Desconhecido
+Lívia Costa,582.***.***-50,83.0,1942-10-18,"loteamento oliveira, 12",Desconhecido,Desconhecido
+Davi Lucas Nunes,679.***.***-03,22.0,2003-01-07,"vila viana, 68",Desconhecido,Desconhecido
+Dr. Lucca Oliveira,806.***.***-75,90.0,1934-06-24,"passarela jesus, 34",Desconhecido,Desconhecido
+Eduardo Monteiro,037.***.***-65,63.0,1962-11-09,viaduto caldeira,Desconhecido,Desconhecido
+Diogo Moraes,571.***.***-52,48.0,1977-01-12,"sítio aragão, 73",Desconhecido,Desconhecido
+Felipe Freitas,657.***.***-57,20.0,2005-12-08,área gabriela nascimento,Desconhecido,Desconhecido
+Ryan Peixoto,830.***.***-98,28.0,1996-08-25,"estrada agatha correia, 79",Desconhecido,Desconhecido
+Otávio Pires,526.***.***-01,27.0,1998-07-16,"pátio ribeiro, 33",Desconhecido,Desconhecido
+Thiago Moreira,023.***.***-03,62.0,1963-01-11,"residencial rebeca da paz, 43",Desconhecido,Desconhecido
+Pietro Lopes,428.***.***-19,62.0,1962-04-24,"aeroporto moura, 81",Desconhecido,Desconhecido
+Gabriela Gomes,317.***.***-50,44.0,1981-04-13,"parque mariane araújo, 1",Desconhecido,Desconhecido
+João Miguel Viana,183.***.***-77,24.0,2000-05-27,"estrada de carvalho, 309",Desconhecido,Desconhecido
+Sr. Luiz Henrique Nunes,031.***.***-77,77.0,1948-03-17,"via da cunha, 11",Desconhecido,Desconhecido
+Srta. Ana Sophia Viana,937.***.***-68,30.0,1995-02-18,"rodovia agatha cavalcanti, 27",Desconhecido,Desconhecido
+Sr. Marcelo Aragão,418.***.***-40,87.0,1938-04-06,praça raul pires,Desconhecido,Desconhecido
+Enzo Gabriel Da Mota,018.***.***-24,31.0,1993-09-22,vila farias,Desconhecido,Desconhecido
+Benjamin Da Rosa,195.***.***-86,100.0,1924-07-29,"núcleo maria luiza novaes, 100",Desconhecido,Desconhecido
+Ana Rezende,316.***.***-64,70.0,1955-10-15,"esplanada de da cruz, 73",Desconhecido,Desconhecido
+Dr. Thomas Dias,267.***.***-03,46.0,1979-01-13,"jardim ana carolina da mota, 6",Desconhecido,Desconhecido
+Breno Ribeiro,803.***.***-78,40.0,1985-10-05,"vereda de costela, 27",Desconhecido,Desconhecido
+Lucas Gabriel Novaes,856.***.***-11,43.0,1982-09-04,"trevo manuela jesus, 927",Desconhecido,Desconhecido
+Vicente Rodrigues,328.***.***-79,87.0,1938-12-18,"chácara cardoso, 14",Desconhecido,Desconhecido
+João Lucas Vieira,985.***.***-05,40.0,1985-10-18,"praça de oliveira, 35",Desconhecido,Desconhecido
+Dr. Luiz Henrique Freitas,951.***.***-88,49.0,1976-11-07,"residencial luigi duarte, 6",Desconhecido,Desconhecido
+Dra. Luiza Da Conceição,189.***.***-33,97.0,1927-04-29,"núcleo de ferreira, 77",Desconhecido,Desconhecido
+Benjamin Cavalcanti,317.***.***-41,27.0,1997-11-30,"área de fernandes, 37",Desconhecido,Desconhecido
+Murilo Mendes,653.***.***-17,79.0,1946-04-20,"loteamento porto, 4",Desconhecido,Desconhecido
+Dr. Renan Rezende,609.***.***-38,67.0,1958-12-16,"área de ribeiro, 688",Desconhecido,Desconhecido
+Maysa Porto,081.***.***-84,70.0,1955-09-11,"pátio carlos eduardo azevedo, 76",Desconhecido,Desconhecido
+Pedro Lucas Pereira,873.***.***-35,85.0,1940-01-09,"quadra almeida, 83",Desconhecido,Desconhecido
+Isadora Nogueira,480.***.***-05,51.0,1974-01-09,"feira almeida, 72",Desconhecido,Desconhecido
+Gabriel Ramos,591.***.***-05,77.0,1947-08-23,"viaduto de freitas, 46",Desconhecido,Desconhecido
+Yago Ferreira,531.***.***-00,88.0,1936-05-30,"ladeira agatha almeida, 27",Desconhecido,Desconhecido
+Samuel Da Mata,521.***.***-11,22.0,2002-11-30,"residencial cavalcanti, 50",Desconhecido,Desconhecido
+Sophie Pinto,317.***.***-50,96.0,1929-07-19,"colônia bryan costela, 404",Desconhecido,Desconhecido
+Dr. Rafael Souza,436.***.***-07,46.0,1979-02-03,"rodovia de moreira, 6",Desconhecido,Desconhecido
+Vitor Hugo Lima,450.***.***-80,86.0,1938-07-30,"esplanada oliveira, 654",Desconhecido,Desconhecido
+Dr. Bernardo Da Cruz,230.***.***-50,22.0,2003-03-03,"rodovia thomas santos, 48",Desconhecido,Desconhecido
+Caio Da Cunha,926.***.***-00,95.0,1930-09-14,"vila milena porto, 70",Desconhecido,Desconhecido
+Stephany Duarte,642.***.***-46,98.0,1927-03-22,"lagoa rebeca novaes, 77",Desconhecido,Desconhecido
+Kevin Da Conceição,074.***.***-94,65.0,1960-04-18,"núcleo sales, 59",Desconhecido,Desconhecido
+Srta. Giovanna Aragão,142.***.***-17,78.0,1947-07-08,"feira sales, 82",Desconhecido,Desconhecido
+Pedro Henrique Pinto,653.***.***-37,27.0,1998-09-20,"colônia de azevedo, 22",Desconhecido,Desconhecido
+Joaquim Da Cruz,532.***.***-41,32.0,1993-12-14,alameda fernandes,Desconhecido,Desconhecido
+Leandro Souza,560.***.***-86,31.0,1994-10-09,"estrada de castro, 671",Desconhecido,Desconhecido
+Beatriz Aragão,805.***.***-04,53.0,1971-07-29,"trecho calebe ferreira, 902",Desconhecido,Desconhecido
+Carlos Eduardo Teixeira,546.***.***-98,49.0,1975-07-26,"chácara joão gabriel correia, 983",Desconhecido,Desconhecido
+Joana Da Rocha,915.***.***-33,47.0,1978-03-05,"lago maria cecília dias, 93",Desconhecido,Desconhecido
+Lucas Gabriel Da Luz,203.***.***-70,20.0,2005-12-13,via de santos,Desconhecido,Desconhecido
+Davi Lucas Da Costa,502.***.***-52,19.0,2005-11-29,"viela mariana ferreira, 867",Desconhecido,Desconhecido
+Henrique Da Rocha,713.***.***-44,35.0,1990-09-08,"via caio carvalho, 11",Desconhecido,Desconhecido
+Lorena Fernandes,574.***.***-93,93.0,1931-05-23,residencial joão guilherme campos,Desconhecido,Desconhecido
+Nathan Nogueira,837.***.***-56,45.0,1980-03-22,"vereda jesus, 420",Desconhecido,Desconhecido
+Srta. Maysa Rezende,726.***.***-55,83.0,1942-09-08,"setor de da mata, 49",Desconhecido,Desconhecido
+Erick Santos,680.***.***-67,44.0,1980-06-22,"rua lavínia da rosa, 9",Desconhecido,Desconhecido
+Agatha Sales,983.***.***-30,93.0,1932-09-01,"setor de santos, 49",Desconhecido,Desconhecido
+Ana Beatriz Moreira,637.***.***-66,65.0,1960-11-19,"parque thomas nogueira, 74",Desconhecido,Desconhecido
+Antônio Da Rocha,943.***.***-23,27.0,1998-02-28,"viela de mendes, 45",Desconhecido,Desconhecido
+Dra. Vitória Viana,813.***.***-24,84.0,1941-03-23,"loteamento barbosa, 28",Desconhecido,Desconhecido
+Enzo Monteiro,534.***.***-04,44.0,1980-06-25,"trevo barros, 87",Desconhecido,Desconhecido
+Bernardo Santos,045.***.***-29,20.0,2005-09-09,"lagoa isabella viana, 20",Desconhecido,Desconhecido
+Guilherme Cunha,237.***.***-02,26.0,1999-03-31,"fazenda rezende, 619",Desconhecido,Desconhecido
+Raul Rodrigues,193.***.***-33,49.0,1976-06-16,praça souza,Desconhecido,Desconhecido
+Pietra Lima,591.***.***-39,32.0,1993-03-28,"praça almeida, 81",Desconhecido,Desconhecido
+Camila Barbosa,560.***.***-59,39.0,1986-07-11,"vila martins, 7",Desconhecido,Desconhecido
+Kaique Almeida,078.***.***-02,69.0,1955-09-27,"passarela de pires, 6",Desconhecido,Desconhecido
+Antônio Porto,015.***.***-60,89.0,1936-06-19,"aeroporto lavínia porto, 29",Desconhecido,Desconhecido
+Alana Rezende,216.***.***-60,71.0,1953-05-23,"parque de aragão, 76",Desconhecido,Desconhecido
+Vitor Almeida,134.***.***-00,44.0,1981-08-06,"vale ramos, 60",Desconhecido,Desconhecido
+Isabelly Da Mota,709.***.***-48,77.0,1948-05-19,loteamento nascimento,Desconhecido,Desconhecido
+Isis Oliveira,893.***.***-87,78.0,1946-09-28,"esplanada joão guilherme barbosa, 39",Desconhecido,Desconhecido
+Carolina Gomes,845.***.***-28,32.0,1992-05-29,parque nascimento,Desconhecido,Desconhecido
+Srta. Natália Rodrigues,548.***.***-88,77.0,1948-03-04,"largo alves, 654",Desconhecido,Desconhecido
+Fernando Ramos,032.***.***-38,52.0,1973-01-05,"trevo de azevedo, 36",Desconhecido,Desconhecido
+Gabriela Da Cruz,109.***.***-77,28.0,1997-06-11,"área de barros, 4",Desconhecido,Desconhecido
+Noah Cavalcanti,273.***.***-60,84.0,1941-02-17,"setor arthur barros, 58",Desconhecido,Desconhecido
+Clara Moreira,079.***.***-05,51.0,1974-03-30,"largo gomes, 85",Desconhecido,Desconhecido
+Laura Araújo,134.***.***-25,55.0,1970-03-16,"praia agatha cardoso, 1",Desconhecido,Desconhecido
+Dr. Luiz Otávio Sales,472.***.***-60,79.0,1946-07-10,"via novaes, 81",Desconhecido,Desconhecido
+Emilly Da Mata,839.***.***-83,90.0,1935-10-11,"pátio castro, 51",Desconhecido,Desconhecido
+Kevin Rodrigues,086.***.***-50,55.0,1970-09-05,"campo lima, 42",Desconhecido,Desconhecido
+Davi Pereira,209.***.***-89,61.0,1963-09-23,"esplanada rafael viana, 38",Desconhecido,Desconhecido
+Thomas Silva,891.***.***-89,21.0,2004-03-06,"travessa beatriz fogaça, 47",Desconhecido,Desconhecido
+Ana Lívia Da Cruz,135.***.***-84,87.0,1938-09-06,"praça correia, 3",Desconhecido,Desconhecido
+Sr. Vicente Silveira,318.***.***-57,61.0,1964-11-06,"viela maria cecília viana, 44",Desconhecido,Desconhecido
+Sophie Caldeira,403.***.***-17,37.0,1988-01-28,"vila nina moura, 41",Desconhecido,Desconhecido
+Gabriel Costa,930.***.***-34,61.0,1964-04-07,"núcleo carvalho, 87",Desconhecido,Desconhecido
+Ana Carolina Costa,680.***.***-80,52.0,1973-12-15,"rodovia de da luz, 710",Desconhecido,Desconhecido
+Maitê Fogaça,543.***.***-57,27.0,1997-10-29,residencial beatriz lopes,Desconhecido,Desconhecido
+Bruna Caldeira,259.***.***-03,69.0,1956-05-14,"aeroporto de ferreira, 9",Desconhecido,Desconhecido
+Caroline Moura,593.***.***-25,31.0,1993-04-27,"chácara da luz, 27",Desconhecido,Desconhecido
+Sra. Ana Júlia Pires,561.***.***-06,48.0,1977-06-19,núcleo cardoso,Desconhecido,Desconhecido
+Dra. Larissa Fernandes,503.***.***-51,44.0,1981-02-21,"residencial de ribeiro, 11",Desconhecido,Desconhecido
+Rodrigo Da Luz,416.***.***-61,33.0,1992-02-03,"aeroporto de campos, 63",Desconhecido,Desconhecido
+Carlos Eduardo Barros,730.***.***-70,32.0,1992-05-25,loteamento de rodrigues,Desconhecido,Desconhecido
+Ana Laura Silva,047.***.***-66,53.0,1972-06-20,"vale pinto, 70",Desconhecido,Desconhecido
+Maitê Nogueira,517.***.***-06,67.0,1958-10-01,"vale costela, 5",Desconhecido,Desconhecido
+Ana Laura Da Luz,681.***.***-90,81.0,1943-09-26,"jardim de barros, 111",Desconhecido,Desconhecido
+Sra. Brenda Viana,154.***.***-01,77.0,1948-10-12,"pátio da rocha, 793",Desconhecido,Desconhecido
+Augusto Teixeira,360.***.***-47,95.0,1930-05-17,"setor samuel porto, 99",Desconhecido,Desconhecido
+Dr. Francisco Lima,318.***.***-70,66.0,1959-02-01,"via diego lima, 60",Desconhecido,Desconhecido
+Isaac Da Luz,293.***.***-83,76.0,1949-09-12,"área joão lucas lima, 997",Desconhecido,Desconhecido
+Calebe Jesus,068.***.***-00,47.0,1978-02-15,"praia vitor gabriel cunha, 89",Desconhecido,Desconhecido
+Kevin Melo,786.***.***-22,59.0,1966-11-05,viaduto juliana nogueira,Desconhecido,Desconhecido
+Pedro Miguel Peixoto,079.***.***-68,50.0,1975-03-26,"passarela moura, 85",Desconhecido,Desconhecido
+Gabrielly Almeida,498.***.***-00,30.0,1994-06-21,"condomínio de sales, 62",Desconhecido,Desconhecido
+Murilo Correia,197.***.***-93,34.0,1990-11-29,"estação de ribeiro, 893",Desconhecido,Desconhecido
+Matheus Dias,156.***.***-53,83.0,1942-12-02,Endereço inválido,Desconhecido,Desconhecido
+Stella Cardoso,798.***.***-39,57.0,1968-08-14,"estrada ana ramos, 10",Desconhecido,Desconhecido
+Marcela Barbosa,509.***.***-66,62.0,1963-03-04,"estação de azevedo, 639",Desconhecido,Desconhecido
+Ana Carolina Pires,612.***.***-06,89.0,1936-04-16,"viaduto eduarda pinto, 76",Desconhecido,Desconhecido
+Helena Aragão,791.***.***-23,85.0,1940-02-19,morro lavínia almeida,Desconhecido,Desconhecido
+João Gabriel Oliveira,496.***.***-09,97.0,1927-11-21,"travessa oliveira, 28",Desconhecido,Desconhecido
+Maria Cecília Vieira,491.***.***-64,89.0,1936-05-14,"conjunto de souza, 842",Desconhecido,Desconhecido
+Lorena Rodrigues,461.***.***-90,46.0,1978-12-27,"quadra de fogaça, 57",Desconhecido,Desconhecido
+Nicolas Cunha,873.***.***-53,71.0,1954-09-01,"estrada de carvalho, 52",Desconhecido,Desconhecido
+Vitor Hugo Ramos,485.***.***-06,31.0,1994-08-07,"travessa melo, 5",Desconhecido,Desconhecido
+Luigi Aragão,704.***.***-74,41.0,1984-02-28,"largo de rodrigues, 19",Desconhecido,Desconhecido
+Maria Julia Barros,123.***.***-77,51.0,1974-06-14,área nogueira,Desconhecido,Desconhecido
+Luiz Gustavo Silveira,178.***.***-03,94.0,1931-02-16,estação mendes,Desconhecido,Desconhecido
+Ana Júlia Fernandes,795.***.***-76,98.0,1927-05-16,"passarela de carvalho, 69",Desconhecido,Desconhecido
+Luiz Miguel Novaes,754.***.***-28,27.0,1998-01-24,"morro de nascimento, 17",Desconhecido,Desconhecido
+Gabriel Santos,142.***.***-30,22.0,2003-03-24,"largo viana, 3",Desconhecido,Desconhecido
+Srta. Sophie Vieira,624.***.***-17,73.0,1952-04-06,"loteamento de viana, 65",Desconhecido,Desconhecido
+Júlia Cardoso,482.***.***-02,89.0,1935-07-24,"feira gustavo nascimento, 911",Desconhecido,Desconhecido
+Dra. Gabriela Jesus,846.***.***-40,50.0,1975-03-04,vereda cunha,Desconhecido,Desconhecido
+Dr. João Gabriel Correia,038.***.***-08,49.0,1975-05-27,"aeroporto augusto das neves, 847",Desconhecido,Desconhecido
+Luiz Gustavo Jesus,625.***.***-02,100.0,1925-04-09,"feira fogaça, 914",Desconhecido,Desconhecido
+Rodrigo Ferreira,527.***.***-49,56.0,1969-02-27,"estação moraes, 13",Desconhecido,Desconhecido
+Alícia Ribeiro,514.***.***-94,92.0,1932-04-28,"feira maria julia costela, 21",Desconhecido,Desconhecido
+Sr. André Da Mata,169.***.***-15,68.0,1957-12-07,"loteamento de lima, 16",Desconhecido,Desconhecido
+Srta. Maria Julia Campos,245.***.***-55,65.0,1960-02-06,"rodovia pires, 57",Desconhecido,Desconhecido
+João Gabriel Ferreira,018.***.***-03,96.0,1929-07-20,pátio carvalho,Desconhecido,Desconhecido
+Thomas Moraes,291.***.***-05,61.0,1964-02-09,"parque melo, 462",Desconhecido,Desconhecido
+Clara Melo,860.***.***-57,63.0,1962-02-15,"alameda vitor gabriel lopes, 52",Desconhecido,Desconhecido
+Luigi Cavalcanti,078.***.***-50,35.0,1990-07-07,"campo de campos, 83",Desconhecido,Desconhecido
+Dra. Stella Da Costa,340.***.***-51,54.0,1970-10-31,"passarela oliveira, 48",Desconhecido,Desconhecido
+Isabella Da Paz,289.***.***-65,81.0,1943-12-31,"via letícia nunes, 280",Desconhecido,Desconhecido
+Enzo Da Rocha,874.***.***-13,44.0,1980-12-28,"travessa ribeiro, 92",Desconhecido,Desconhecido
+Olivia Fernandes,016.***.***-48,52.0,1973-12-09,"conjunto eduardo da paz, 2",Desconhecido,Desconhecido
+André Da Mata,648.***.***-08,39.0,1986-11-05,"feira clara lima, 5",Desconhecido,Desconhecido
+Pedro Henrique Cavalcanti,938.***.***-86,79.0,1946-02-09,"núcleo de rocha, 9",Desconhecido,Desconhecido
+Joaquim Silveira,671.***.***-12,22.0,2003-07-18,"vila de freitas, 80",Desconhecido,Desconhecido
+Mirella Rodrigues,216.***.***-94,48.0,1977-12-11,"fazenda de lima, 95",Desconhecido,Desconhecido
+Sra. Isabelly Azevedo,087.***.***-76,75.0,1949-11-23,"ladeira caldeira, 5",Desconhecido,Desconhecido
+Dr. Samuel Ferreira,720.***.***-87,36.0,1989-02-02,"travessa ana lívia da mata, 63",Desconhecido,Desconhecido
+Otávio Carvalho,643.***.***-90,89.0,1936-07-09,"residencial costa, 9",Desconhecido,Desconhecido
+Dra. Stephany Da Mota,154.***.***-51,26.0,1999-03-16,"colônia monteiro, 49",Desconhecido,Desconhecido
+Cauê Mendes,152.***.***-44,32.0,1993-12-15,"lagoa das neves, 36",Desconhecido,Desconhecido
+Alexandre Nunes,496.***.***-33,53.0,1972-07-03,"esplanada souza, 437",Desconhecido,Desconhecido
+Maria Fernanda Aragão,372.***.***-53,68.0,1956-05-24,"favela de carvalho, 28",Desconhecido,Desconhecido
+João Guilherme Silva,820.***.***-30,74.0,1951-03-20,"praça caroline almeida, 19",Desconhecido,Desconhecido
+Lorena Rezende,753.***.***-95,74.0,1951-03-25,"lagoa de fogaça, 92",Desconhecido,Desconhecido
+Maria Sophia Da Cruz,690.***.***-34,69.0,1955-05-27,"vale ana julia porto, 19",Desconhecido,Desconhecido
+Milena Das Neves,685.***.***-89,95.0,1930-09-02,"residencial de cunha, 20",Desconhecido,Desconhecido
+Kamilly Da Cunha,520.***.***-80,67.0,1957-06-21,"travessa lucca carvalho, 38",Desconhecido,Desconhecido
+Luiz Miguel Aragão,937.***.***-12,55.0,1970-03-11,aeroporto ana clara oliveira,Desconhecido,Desconhecido
+Ana Laura Ribeiro,754.***.***-47,39.0,1986-11-14,"praia de da mata, 18",Desconhecido,Desconhecido
+Lorena Da Mota,162.***.***-90,57.0,1967-05-22,"favela de azevedo, 62",Desconhecido,Desconhecido
+Emanuella Souza,617.***.***-07,80.0,1945-12-06,"loteamento ferreira, 493",Desconhecido,Desconhecido
+Cecília Pinto,498.***.***-30,26.0,1999-04-16,"campo vinicius campos, 2",Desconhecido,Desconhecido
+Pedro Henrique Cunha,584.***.***-00,46.0,1978-12-27,"condomínio bruna mendes, 55",Desconhecido,Desconhecido
+Sra. Eloah Da Mota,901.***.***-03,33.0,1991-05-31,"loteamento freitas, 30",Desconhecido,Desconhecido
+Samuel Da Rocha,159.***.***-97,23.0,2002-05-03,"trecho de freitas, 8",Desconhecido,Desconhecido
+Melissa Almeida,705.***.***-92,66.0,1959-08-13,"alameda de da rosa, 2",Desconhecido,Desconhecido
+Carlos Eduardo Da Mota,894.***.***-20,100.0,1925-08-08,"largo juliana barbosa, 182",Desconhecido,Desconhecido
+Dr. Vitor Da Mota,789.***.***-28,50.0,1975-05-17,viela de da paz,Desconhecido,Desconhecido
+Dr. Diogo Costela,962.***.***-73,37.0,1987-09-28,"passarela joão lucas nogueira, 753",Desconhecido,Desconhecido
+Rafaela Rodrigues,578.***.***-60,82.0,1943-12-10,"campo vinicius silva, 27",Desconhecido,Desconhecido
+Vitor Hugo Da Conceição,716.***.***-55,26.0,1998-04-30,"viaduto de castro, 65",Desconhecido,Desconhecido
+Ana Laura Caldeira,518.***.***-73,52.0,1972-10-28,"estrada de rocha, 305",Desconhecido,Desconhecido
+Dra. Laura Silveira,472.***.***-49,96.0,1928-12-23,"pátio lopes, 1",Desconhecido,Desconhecido
+Sr. Rafael Pereira,492.***.***-79,87.0,1937-06-21,"recanto gustavo pereira, 77",Desconhecido,Desconhecido
+Manuela Mendes,518.***.***-60,33.0,1992-02-25,"largo kevin barbosa, 2",Desconhecido,Desconhecido
+Igor Lopes,073.***.***-22,31.0,1994-11-19,recanto azevedo,Desconhecido,Desconhecido
+Marcelo Moreira,346.***.***-87,51.0,1974-10-05,"trecho igor barros, 77",Desconhecido,Desconhecido
+Thomas Costela,428.***.***-22,95.0,1930-03-08,alameda de pinto,Desconhecido,Desconhecido
+Luiz Otávio Gonçalves,637.***.***-90,65.0,1960-10-10,"trevo rezende, 51",Desconhecido,Desconhecido
+Stella Da Costa,063.***.***-07,55.0,1969-12-25,"estação de freitas, 32",Desconhecido,Desconhecido
+Luana Da Cruz,083.***.***-86,31.0,1994-10-12,distrito rocha,Desconhecido,Desconhecido
+Maria Cecília Lima,132.***.***-89,29.0,1996-12-02,"recanto silveira, 47",Desconhecido,Desconhecido
+Melissa Teixeira,642.***.***-78,72.0,1953-11-03,"residencial de pires, 28",Desconhecido,Desconhecido
+Dr. Vinicius Pires,163.***.***-10,39.0,1986-02-05,"distrito de lopes, 397",Desconhecido,Desconhecido
+Luiz Miguel Farias,962.***.***-00,89.0,1936-11-03,"feira cardoso, 21",Desconhecido,Desconhecido
+Breno Correia,148.***.***-67,42.0,1983-05-07,"conjunto daniel fernandes, 403",Desconhecido,Desconhecido
+Laís Costela,306.***.***-53,59.0,1966-01-18,"parque maitê santos, 42",Desconhecido,Desconhecido
+Dr. Diego Da Mata,293.***.***-41,21.0,2003-08-22,"quadra de da mota, 62",Desconhecido,Desconhecido
+Letícia Da Mota,852.***.***-02,31.0,1993-05-24,"viaduto jesus, 11",Desconhecido,Desconhecido
+Luna Ferreira,843.***.***-14,55.0,1970-01-25,"alameda anthony fogaça, 11",Desconhecido,Desconhecido
+Dr. Emanuel Silveira,430.***.***-80,30.0,1994-04-23,"quadra de fogaça, 28",Desconhecido,Desconhecido
+Lorena Sales,263.***.***-15,45.0,1979-12-26,fazenda caldeira,Desconhecido,Desconhecido
+Davi Da Mata,846.***.***-39,56.0,1969-02-19,vila alves,Desconhecido,Desconhecido
+Isabel Melo,748.***.***-09,76.0,1948-12-28,"feira enrico nogueira, 1",Desconhecido,Desconhecido
+Raul Oliveira,298.***.***-64,94.0,1931-01-03,"rua pedro miguel da luz, 95",Desconhecido,Desconhecido
+Levi Da Mata,192.***.***-32,62.0,1962-10-21,vila de da mata,Desconhecido,Desconhecido
+Heloísa Castro,587.***.***-44,64.0,1961-05-15,"sítio de cardoso, 88",Desconhecido,Desconhecido
+Sra. Júlia Da Paz,046.***.***-74,39.0,1986-08-19,"jardim maria sophia ferreira, 95",Desconhecido,Desconhecido
+Luana Viana,213.***.***-21,27.0,1998-04-01,"praça de castro, 980",Desconhecido,Desconhecido
+Sr. Renan Sales,364.***.***-83,24.0,2001-04-17,"praça olivia silveira, 49",Desconhecido,Desconhecido
+Caio Aragão,714.***.***-62,24.0,2001-11-19,"área de barros, 86",Desconhecido,Desconhecido
+Srta. Lavínia Ribeiro,263.***.***-51,77.0,1948-11-19,"alameda gustavo henrique gonçalves, 50",Desconhecido,Desconhecido
+Sofia Da Mata,806.***.***-84,23.0,2002-05-16,"jardim de lopes, 7",Desconhecido,Desconhecido
+André Araújo,819.***.***-13,44.0,1980-04-26,"alameda de da mota, 94",Desconhecido,Desconhecido
+Nathan Azevedo,285.***.***-82,86.0,1939-02-12,"lagoa milena ramos, 4",Desconhecido,Desconhecido
+Camila Teixeira,982.***.***-40,48.0,1977-08-13,"setor da cunha, 39",Desconhecido,Desconhecido
+Srta. Clara Souza,510.***.***-71,27.0,1998-08-20,"área peixoto, 32",Desconhecido,Desconhecido
+Yuri Nascimento,129.***.***-73,58.0,1966-09-28,"vereda matheus azevedo, 2",Desconhecido,Desconhecido
+Srta. Marcela Gonçalves,148.***.***-87,85.0,1940-11-03,"praia raul campos, 12",Desconhecido,Desconhecido
+João Ramos,936.***.***-87,51.0,1973-08-28,"jardim enzo da paz, 47",Desconhecido,Desconhecido
+Renan Rocha,720.***.***-92,44.0,1981-10-08,"vale oliveira, 22",Desconhecido,Desconhecido
+Sr. Caio Souza,453.***.***-33,52.0,1973-07-02,"conjunto maria vitória da cunha, 59",Desconhecido,Desconhecido
+Clarice Farias,743.***.***-22,56.0,1968-12-22,"alameda maria fernanda castro, 87",Desconhecido,Desconhecido
+Marcos Vinicius Jesus,597.***.***-00,74.0,1951-10-12,"praça de moraes, 588",Desconhecido,Desconhecido
+João Pedro Nunes,910.***.***-42,36.0,1989-09-16,"jardim de ramos, 69",Desconhecido,Desconhecido
+Levi Farias,659.***.***-52,47.0,1978-12-03,"quadra mendes, 42",Desconhecido,Desconhecido
+Dr. Enzo Da Costa,791.***.***-75,42.0,1983-05-07,"campo marcela silveira, 66",Desconhecido,Desconhecido
+Heloísa Alves,029.***.***-79,88.0,1937-10-06,"fazenda de moraes, 637",Desconhecido,Desconhecido
+Luiz Henrique Da Mota,842.***.***-91,21.0,2004-02-17,"recanto alves, 105",Desconhecido,Desconhecido
+Camila Caldeira,903.***.***-03,55.0,1969-04-23,"lago jesus, 71",Desconhecido,Desconhecido
+Arthur Mendes,918.***.***-05,51.0,1973-12-23,esplanada cauã teixeira,Desconhecido,Desconhecido
+João Felipe Campos,362.***.***-06,55.0,1970-03-28,"praia heitor castro, 6",Desconhecido,Desconhecido
+Guilherme Azevedo,174.***.***-16,62.0,1962-07-24,"viela benjamin campos, 1",Desconhecido,Desconhecido
+Dra. Laura Cunha,364.***.***-50,47.0,1977-12-22,"núcleo castro, 7",Desconhecido,Desconhecido
+Noah Moraes,108.***.***-12,56.0,1969-04-03,"estrada lucas gabriel caldeira, 856",Desconhecido,Desconhecido
+Davi Lucca Lopes,260.***.***-90,34.0,1990-11-27,"trecho freitas, 427",Desconhecido,Desconhecido
+Sophia Da Cruz,621.***.***-15,40.0,1984-07-30,via ribeiro,Desconhecido,Desconhecido
+Igor Da Luz,740.***.***-85,48.0,1977-12-16,"lago silva, 75",Desconhecido,Desconhecido
+Dr. Samuel Nascimento,692.***.***-73,87.0,1937-07-30,"travessa duarte, 59",Desconhecido,Desconhecido
+Maria Fernanda Freitas,968.***.***-28,68.0,1957-08-10,favela sarah porto,Desconhecido,Desconhecido
+Eduarda Costa,206.***.***-68,29.0,1995-10-31,"morro enzo gabriel teixeira, 84",Desconhecido,Desconhecido
+Lorenzo Monteiro,069.***.***-20,45.0,1980-07-16,"área da mota, 13",Desconhecido,Desconhecido
+Caroline Cardoso,618.***.***-17,53.0,1972-09-08,"viaduto de moreira, 1",Desconhecido,Desconhecido
+Henrique Da Rocha,329.***.***-99,22.0,2003-01-09,"núcleo luiz gustavo costela, 99",Desconhecido,Desconhecido
+Lucas Gabriel Oliveira,743.***.***-38,53.0,1972-08-04,via araújo,Desconhecido,Desconhecido
+Sr. Arthur Jesus,418.***.***-93,97.0,1927-05-27,lago de cardoso,Desconhecido,Desconhecido
+Marcos Vinicius Da Cunha,572.***.***-43,49.0,1976-01-16,viaduto de cardoso,Desconhecido,Desconhecido
+Antônio Nogueira,061.***.***-71,21.0,2004-08-11,"quadra de da mata, 49",Desconhecido,Desconhecido
+Sophia Monteiro,601.***.***-15,91.0,1933-10-22,"núcleo araújo, 155",Desconhecido,Desconhecido
+Dr. Leandro Silva,497.***.***-85,58.0,1967-12-07,"estação silva, 18",Desconhecido,Desconhecido
+Amanda Farias,185.***.***-08,100.0,1924-07-31,"praia lavínia moraes, 29",Desconhecido,Desconhecido
+Srta. Luna Peixoto,912.***.***-23,55.0,1970-12-14,"fazenda rafaela costela, 37",Desconhecido,Desconhecido
+Sr. Igor Campos,183.***.***-62,56.0,1969-08-17,"fazenda ferreira, 849",Desconhecido,Desconhecido
+Maria Sophia Correia,948.***.***-75,100.0,1925-10-03,"residencial alana dias, 51",Desconhecido,Desconhecido
+Bruno Da Cruz,293.***.***-73,24.0,2001-06-02,"rua evelyn da cunha, 2",Desconhecido,Desconhecido
+Amanda Cavalcanti,351.***.***-00,57.0,1968-12-13,"fazenda de duarte, 99",Desconhecido,Desconhecido
+Bruno Melo,721.***.***-52,59.0,1965-06-26,"trevo de da costa, 7",Desconhecido,Desconhecido
+Dra. Elisa Nunes,875.***.***-05,36.0,1989-01-12,"vale erick moreira, 48",Desconhecido,Desconhecido
+Calebe Ramos,942.***.***-40,61.0,1964-05-05,"parque de moraes, 36",Desconhecido,Desconhecido
+Sr. Arthur Moraes,306.***.***-87,82.0,1943-10-01,"passarela lima, 87",Desconhecido,Desconhecido
+Júlia Silveira,913.***.***-57,75.0,1950-11-18,pátio vitor gabriel rocha,Desconhecido,Desconhecido
+Sra. Isabelly Silva,732.***.***-00,35.0,1989-08-28,"rodovia agatha lopes, 7",Desconhecido,Desconhecido
+Dr. Otávio Azevedo,457.***.***-30,81.0,1944-11-09,"aeroporto de ferreira, 2",Desconhecido,Desconhecido
+Maria Cecília Aragão,264.***.***-49,100.0,1925-01-09,"trevo aragão, 535",Desconhecido,Desconhecido
+Noah Da Rosa,742.***.***-22,60.0,1965-05-02,"avenida ferreira, 7",Desconhecido,Desconhecido
+Sra. Laura Azevedo,540.***.***-71,39.0,1986-06-16,viaduto marcelo ramos,Desconhecido,Desconhecido
+Dr. Francisco Moreira,702.***.***-08,25.0,1999-08-25,"núcleo silva, 7",Desconhecido,Desconhecido
+Mariane Das Neves,912.***.***-05,45.0,1979-10-27,"rodovia de freitas, 782",Desconhecido,Desconhecido
+Enzo Monteiro,309.***.***-56,35.0,1990-09-15,"quadra silveira, 76",Desconhecido,Desconhecido
+Diego Da Rocha,093.***.***-83,37.0,1988-01-24,"conjunto da rosa, 22",Desconhecido,Desconhecido
+Ana Laura Da Cruz,798.***.***-49,87.0,1937-04-28,parque rodrigues,Desconhecido,Desconhecido
+Ana Sophia Gomes,384.***.***-46,45.0,1979-07-27,"lagoa porto, 44",Desconhecido,Desconhecido
+Ana Laura Costa,502.***.***-85,54.0,1971-08-17,"vila sales, 913",Desconhecido,Desconhecido
+Felipe Souza,187.***.***-84,56.0,1968-09-30,"setor peixoto, 47",Desconhecido,Desconhecido
+Luana Novaes,287.***.***-87,80.0,1945-12-05,"parque luiz gustavo da conceição, 34",Desconhecido,Desconhecido
+Sra. Yasmin Nogueira,360.***.***-15,49.0,1975-10-29,"lago de rocha, 482",Desconhecido,Desconhecido
+Benício Melo,904.***.***-67,23.0,2002-12-07,recanto maitê pereira,Desconhecido,Desconhecido
+Daniela Aragão,726.***.***-53,60.0,1965-07-06,"feira otávio pereira, 93",Desconhecido,Desconhecido
+Davi Luiz Sales,740.***.***-13,45.0,1979-07-24,"trecho joão gabriel pires, 64",Desconhecido,Desconhecido
+Milena Souza,904.***.***-70,87.0,1938-10-08,"praça de ribeiro, 9",Desconhecido,Desconhecido
+Maria Eduarda Ferreira,438.***.***-60,75.0,1949-09-28,passarela de caldeira,Desconhecido,Desconhecido
+Sr. Diogo Lima,302.***.***-00,31.0,1994-12-06,estrada danilo monteiro,Desconhecido,Desconhecido
+Dr. Carlos Eduardo Araújo,496.***.***-47,41.0,1984-11-09,"rodovia sophia rodrigues, 88",Desconhecido,Desconhecido
+Marina Gomes,934.***.***-00,99.0,1925-12-25,lagoa souza,Desconhecido,Desconhecido
+Gustavo Henrique Duarte,254.***.***-60,24.0,2000-05-29,"área ana sophia pereira, 32",Desconhecido,Desconhecido
+Caio Ramos,832.***.***-73,29.0,1996-11-06,"viaduto de sales, 92",Desconhecido,Desconhecido
+Rafael Nunes,462.***.***-19,90.0,1935-04-10,"núcleo monteiro, 504",Desconhecido,Desconhecido
+Enzo Gabriel Cardoso,726.***.***-67,38.0,1987-01-26,núcleo ribeiro,Desconhecido,Desconhecido
+Davi Cardoso,065.***.***-90,19.0,2005-07-25,"praça ana júlia rezende, 38",Desconhecido,Desconhecido
+Daniel Pires,274.***.***-47,41.0,1984-06-13,"avenida bruna rodrigues, 724",Desconhecido,Desconhecido
+Brenda Da Mata,532.***.***-19,45.0,1980-02-29,"pátio rocha, 75",Desconhecido,Desconhecido
+Samuel Dias,852.***.***-24,40.0,1985-11-17,"viaduto enzo gabriel moreira, 72",Desconhecido,Desconhecido
+Gustavo Henrique Da Costa,917.***.***-50,20.0,2005-03-08,"residencial ribeiro, 60",Desconhecido,Desconhecido
+Theo Fogaça,091.***.***-05,49.0,1975-06-26,"travessa cardoso, 95",Desconhecido,Desconhecido
+Sra. Alexia Carvalho,483.***.***-71,25.0,2000-03-31,quadra lorenzo pires,Desconhecido,Desconhecido
+Juliana Martins,432.***.***-56,86.0,1939-06-04,campo de souza,Desconhecido,Desconhecido
+Luiz Gustavo Da Rosa,280.***.***-97,87.0,1938-06-09,"via de da paz, 5",Desconhecido,Desconhecido
+Gabriela Freitas,367.***.***-26,31.0,1994-03-10,"trevo carvalho, 9",Desconhecido,Desconhecido
+Enzo Gabriel Vieira,812.***.***-76,23.0,2002-01-28,travessa novaes,Desconhecido,Desconhecido
+Srta. Luna Nascimento,815.***.***-60,71.0,1954-06-13,"passarela de nascimento, 916",Desconhecido,Desconhecido
+Sophie Da Mata,971.***.***-97,72.0,1953-04-10,"avenida de almeida, 78",Desconhecido,Desconhecido
+Clarice Alves,973.***.***-65,24.0,2001-12-02,avenida heloísa costa,Desconhecido,Desconhecido
+Catarina Rodrigues,138.***.***-84,85.0,1939-11-26,"núcleo farias, 97",Desconhecido,Desconhecido
+Antônio Vieira,017.***.***-53,90.0,1934-10-25,"favela de lopes, 473",Desconhecido,Desconhecido
+Dr. Nicolas Da Conceição,105.***.***-80,27.0,1998-06-04,"quadra mariana costela, 87",Desconhecido,Desconhecido
+Maria Alice Da Costa,290.***.***-92,89.0,1936-02-17,"rua cardoso, 76",Desconhecido,Desconhecido
+Sr. Lucca Martins,906.***.***-70,57.0,1967-08-30,"pátio paulo da rosa, 93",Desconhecido,Desconhecido
+João Pedro Costa,532.***.***-41,70.0,1955-09-12,feira cardoso,Desconhecido,Desconhecido
+Maitê Gonçalves,034.***.***-20,99.0,1926-09-20,"distrito giovanna rodrigues, 37",Desconhecido,Desconhecido
+Ana Laura Ferreira,326.***.***-74,73.0,1952-01-29,estrada de ramos,Desconhecido,Desconhecido
+Sabrina Da Mata,172.***.***-02,31.0,1994-01-31,"viela de moraes, 56",Desconhecido,Desconhecido
+Alexandre Das Neves,183.***.***-24,95.0,1930-07-19,"área de novaes, 52",Desconhecido,Desconhecido
+Isadora Da Cunha,471.***.***-31,55.0,1969-08-31,"viaduto freitas, 622",Desconhecido,Desconhecido
+Dr. Luigi Fernandes,834.***.***-55,74.0,1951-07-16,"distrito thomas pires, 77",Desconhecido,Desconhecido
+Sr. Yago Cavalcanti,758.***.***-05,94.0,1931-03-01,estrada melo,Desconhecido,Desconhecido
+Carolina Peixoto,396.***.***-96,64.0,1960-06-26,"loteamento dias, 21",Desconhecido,Desconhecido
+Ana Lívia Porto,067.***.***-44,75.0,1949-09-26,"colônia vieira, 6",Desconhecido,Desconhecido
+Henrique Da Mata,896.***.***-74,34.0,1990-12-25,"aeroporto vinicius rezende, 18",Desconhecido,Desconhecido
+Enrico Aragão,490.***.***-75,94.0,1930-06-30,"praça almeida, 95",Desconhecido,Desconhecido
+Milena Cavalcanti,523.***.***-70,27.0,1998-09-15,"trecho kevin castro, 70",Desconhecido,Desconhecido
+Davi Lucca Melo,731.***.***-14,97.0,1928-02-22,"passarela kamilly moreira, 704",Desconhecido,Desconhecido
+Clarice Fernandes,192.***.***-73,88.0,1936-12-27,"vereda jesus, 7",Desconhecido,Desconhecido
+Dr. Luiz Fernando Das Neves,146.***.***-37,59.0,1966-02-21,"viaduto de martins, 24",Desconhecido,Desconhecido
+Caio Azevedo,428.***.***-82,74.0,1951-03-04,"largo cardoso, 23",Desconhecido,Desconhecido
+Enrico Novaes,457.***.***-38,75.0,1950-11-08,"vila heloísa barbosa, 666",Desconhecido,Desconhecido
+Ana Clara Moreira,075.***.***-53,89.0,1936-12-15,residencial de aragão,Desconhecido,Desconhecido
+Enrico Ribeiro,965.***.***-66,27.0,1998-02-24,"loteamento lopes, 2",Desconhecido,Desconhecido
+Evelyn Aragão,548.***.***-07,87.0,1938-04-19,"estrada rebeca caldeira, 440",Desconhecido,Desconhecido
+Thales Moreira,406.***.***-07,64.0,1960-07-31,quadra farias,Desconhecido,Desconhecido
+Heitor Mendes,097.***.***-61,57.0,1968-01-13,lagoa de farias,Desconhecido,Desconhecido
+Sarah Nascimento,938.***.***-10,42.0,1983-05-14,"largo de da costa, 400",Desconhecido,Desconhecido
+Sra. Yasmin Melo,510.***.***-49,19.0,2005-07-22,"loteamento almeida, 821",Desconhecido,Desconhecido
+Sr. Marcelo Costela,895.***.***-38,25.0,2000-08-16,"chácara clarice da costa, 135",Desconhecido,Desconhecido
+Maria Cecília Araújo,752.***.***-52,77.0,1948-03-20,"distrito nathan melo, 3",Desconhecido,Desconhecido
+Enzo Gabriel Ribeiro,965.***.***-02,65.0,1960-06-20,"recanto nunes, 87",Desconhecido,Desconhecido
+Miguel Da Rosa,168.***.***-03,44.0,1980-04-24,"esplanada carvalho, 8",Desconhecido,Desconhecido
+Maria Vitória Ferreira,914.***.***-69,25.0,2000-11-09,"lago lima, 6",Desconhecido,Desconhecido
+Sr. Vitor Gabriel Gomes,348.***.***-60,49.0,1975-11-29,"vale costela, 49",Desconhecido,Desconhecido
+Bianca Pinto,541.***.***-06,81.0,1943-05-29,"lagoa sales, 43",Desconhecido,Desconhecido
+Igor Melo,519.***.***-39,98.0,1927-03-31,viaduto nogueira,Desconhecido,Desconhecido
+Sra. Vitória Carvalho,528.***.***-38,36.0,1989-02-20,"jardim fernanda moura, 767",Desconhecido,Desconhecido
+Sofia Duarte,412.***.***-28,20.0,2005-07-09,"morro isaac freitas, 543",Desconhecido,Desconhecido
+Brenda Nogueira,160.***.***-33,57.0,1967-07-23,"pátio de almeida, 4",Desconhecido,Desconhecido
+Rafael Fogaça,569.***.***-68,94.0,1931-03-04,"setor de da rosa, 401",Desconhecido,Desconhecido
+Ana Nascimento,295.***.***-61,73.0,1951-11-22,"chácara de martins, 14",Desconhecido,Desconhecido
+Dr. Juan Da Rocha,475.***.***-80,76.0,1949-10-02,"ladeira de da mota, 16",Desconhecido,Desconhecido
+Ana Laura Rocha,531.***.***-70,33.0,1992-01-11,"sítio thomas rodrigues, 41",Desconhecido,Desconhecido
+Maria Alice Da Rocha,906.***.***-22,91.0,1933-12-22,"travessa de correia, 46",Desconhecido,Desconhecido
+Elisa Lopes,790.***.***-30,,1924-07-02,passarela alexandre da cunha,Desconhecido,Desconhecido
+Davi Lucca Pereira,597.***.***-60,71.0,1954-01-28,"jardim de barros, 16",Desconhecido,Desconhecido
+Marina Fogaça,410.***.***-20,63.0,1962-04-07,"praça luiz henrique correia, 81",Desconhecido,Desconhecido
+Bernardo Ramos,105.***.***-98,82.0,1943-09-03,"lagoa luiza gonçalves, 979",Desconhecido,Desconhecido
+Ana Lívia Lopes,971.***.***-02,65.0,1960-11-10,"parque de barbosa, 57",Desconhecido,Desconhecido
+Miguel Silva,920.***.***-00,41.0,1984-02-28,"ladeira das neves, 9",Desconhecido,Desconhecido
+Sr. Arthur Da Cruz,693.***.***-38,84.0,1940-06-24,lago de cavalcanti,Desconhecido,Desconhecido
+Julia Da Mota,571.***.***-20,76.0,1948-09-30,"feira nogueira, 68",Desconhecido,Desconhecido
+Agatha Rocha,853.***.***-30,54.0,1971-11-01,setor de dias,Desconhecido,Desconhecido
+Isabel Cardoso,608.***.***-40,97.0,1928-08-11,"campo da mata, 42",Desconhecido,Desconhecido
+Marcos Vinicius Moura,451.***.***-19,65.0,1959-11-29,"parque dias, 687",Desconhecido,Desconhecido
+Levi Da Cunha,718.***.***-75,99.0,1925-04-28,"colônia de viana, 6",Desconhecido,Desconhecido
+Cauã Vieira,427.***.***-61,77.0,1947-07-29,via da mata,Desconhecido,Desconhecido
+Maria Alice Ferreira,105.***.***-80,39.0,1986-05-01,"praça de duarte, 194",Desconhecido,Desconhecido
+Dra. Isabelly Souza,725.***.***-30,34.0,1990-05-23,"campo de moura, 60",Desconhecido,Desconhecido
+Heitor Rezende,174.***.***-39,73.0,1951-09-28,"área duarte, 628",Desconhecido,Desconhecido
+Maria Vitória Jesus,493.***.***-70,48.0,1977-02-16,"sítio de moura, 13",Desconhecido,Desconhecido
+Emanuel Duarte,762.***.***-76,22.0,2003-02-23,"rua de fogaça, 71",Desconhecido,Desconhecido
+Ian Lima,163.***.***-66,88.0,1937-07-05,"rua de martins, 9",Desconhecido,Desconhecido
+Vitor Alves,687.***.***-22,29.0,1996-06-13,"esplanada ana laura oliveira, 667",Desconhecido,Desconhecido
+Rafael Ramos,946.***.***-84,71.0,1954-05-17,"esplanada almeida, 4",Desconhecido,Desconhecido
+Ryan Da Cunha,412.***.***-52,88.0,1937-11-04,morro de cardoso,Desconhecido,Desconhecido
+Maria Da Cunha,539.***.***-06,79.0,1946-10-07,residencial de duarte,Desconhecido,Desconhecido
+Srta. Milena Cardoso,832.***.***-40,67.0,1958-03-07,"praça almeida, 71",Desconhecido,Desconhecido
+Bryan Ramos,043.***.***-89,31.0,1993-10-30,"praia costa, 35",Desconhecido,Desconhecido
+Luigi Santos,273.***.***-52,38.0,1987-01-04,"via luigi peixoto, 61",Desconhecido,Desconhecido
+Isabella Duarte,023.***.***-17,44.0,1980-09-28,"estrada diogo da mata, 91",Desconhecido,Desconhecido
+Sophie Azevedo,214.***.***-49,99.0,1926-08-11,"rua kaique freitas, 8",Desconhecido,Desconhecido
+Matheus Carvalho,592.***.***-09,61.0,1963-08-31,viela de almeida,Desconhecido,Desconhecido
+Júlia Da Cruz,714.***.***-39,95.0,1930-02-12,lagoa joão pedro alves,Desconhecido,Desconhecido
+Vitor Peixoto,489.***.***-06,77.0,1947-07-24,"trevo de cardoso, 40",Desconhecido,Desconhecido
+Amanda Castro,305.***.***-41,45.0,1980-04-05,"favela erick pereira, 672",Desconhecido,Desconhecido
+Lucas Lima,240.***.***-01,93.0,1932-06-16,"vale igor castro, 928",Desconhecido,Desconhecido
+Raquel Ramos,052.***.***-25,68.0,1957-10-16,"vereda de costa, 27",Desconhecido,Desconhecido
+Dra. Rebeca Nascimento,431.***.***-37,84.0,1941-04-07,"residencial nogueira, 954",Desconhecido,Desconhecido
+Theo Da Conceição,846.***.***-46,30.0,1995-03-22,"fazenda maria ribeiro, 81",Desconhecido,Desconhecido
+Thiago Da Cunha,631.***.***-24,92.0,1933-06-08,"viela de aragão, 291",Desconhecido,Desconhecido
+Davi Lucas Moreira,169.***.***-02,60.0,1964-12-30,"estrada de da costa, 92",Desconhecido,Desconhecido
+Helena Costela,950.***.***-68,29.0,1996-02-01,"colônia de fogaça, 78",Desconhecido,Desconhecido
+Beatriz Peixoto,243.***.***-96,82.0,1943-04-11,"campo de moura, 904",Desconhecido,Desconhecido
+Luigi Fernandes,846.***.***-20,49.0,1976-02-02,"estação igor cunha, 21",Desconhecido,Desconhecido
+Gabrielly Almeida,831.***.***-14,67.0,1958-01-11,"estrada da conceição, 23",Desconhecido,Desconhecido
+Samuel Sales,439.***.***-55,77.0,1948-08-19,"morro de costela, 73",Desconhecido,Desconhecido
+Dr. Otávio Costa,095.***.***-59,38.0,1987-08-09,"chácara da conceição, 2",Desconhecido,Desconhecido
+Srta. Ana Beatriz Da Mata,429.***.***-67,92.0,1933-01-28,"feira de martins, 79",Desconhecido,Desconhecido
+João Rodrigues,594.***.***-76,26.0,1999-02-19,"colônia duarte, 56",Desconhecido,Desconhecido
+Nathan Farias,521.***.***-32,40.0,1985-01-12,"travessa joana gonçalves, 44",Desconhecido,Desconhecido
+Dr. Rafael Pereira,581.***.***-55,58.0,1967-07-15,"sítio isis campos, 81",Desconhecido,Desconhecido
+Júlia Pereira,871.***.***-12,30.0,1995-02-08,lagoa santos,Desconhecido,Desconhecido
+Dra. Laura Barbosa,031.***.***-04,68.0,1956-12-23,"ladeira de moura, 84",Desconhecido,Desconhecido
+Juliana Pinto,385.***.***-93,72.0,1953-12-18,"rodovia sales, 21",Desconhecido,Desconhecido
+Joana Monteiro,138.***.***-39,56.0,1968-09-29,"parque de costela, 668",Desconhecido,Desconhecido
+Dr. Yago Da Rocha,698.***.***-28,77.0,1948-06-15,"fazenda cavalcanti, 859",Desconhecido,Desconhecido
+Miguel Nogueira,869.***.***-22,58.0,1967-07-12,quadra de ferreira,Desconhecido,Desconhecido
+Isadora Da Rocha,725.***.***-70,96.0,1929-02-20,"via igor da mata, 81",Desconhecido,Desconhecido
+Clara Costela,380.***.***-50,83.0,1942-07-13,"trevo joão pedro araújo, 7",Desconhecido,Desconhecido
+Dr. Enzo Gabriel Rocha,473.***.***-61,63.0,1962-04-03,"condomínio da cunha, 4",Desconhecido,Desconhecido
+Maysa Monteiro,615.***.***-44,95.0,1929-10-27,"parque henrique teixeira, 32",Desconhecido,Desconhecido
+Maria Alice Da Rosa,710.***.***-66,31.0,1994-05-09,"vereda silveira, 8",Desconhecido,Desconhecido
+Maysa Lopes,196.***.***-76,61.0,1963-05-30,"avenida de araújo, 28",Desconhecido,Desconhecido
+Srta. Yasmin Jesus,586.***.***-44,92.0,1932-05-28,"fazenda letícia costela, 6",Desconhecido,Desconhecido
+Mariana Costela,372.***.***-00,40.0,1985-11-09,"campo peixoto, 75",Desconhecido,Desconhecido
+Clara Almeida,842.***.***-92,36.0,1988-11-23,"parque eloah costa, 91",Desconhecido,Desconhecido
+Sofia Aragão,687.***.***-08,37.0,1988-08-13,"rua de santos, 955",Desconhecido,Desconhecido
+Elisa Barros,546.***.***-20,28.0,1997-01-19,"estrada sales, 13",Desconhecido,Desconhecido
+Joana Silva,349.***.***-57,26.0,1999-09-19,chácara miguel fogaça,Desconhecido,Desconhecido
+Lorenzo Porto,812.***.***-13,65.0,1960-05-14,"avenida de araújo, 1",Desconhecido,Desconhecido
+Vitória Barbosa,583.***.***-77,49.0,1976-10-19,"vale de monteiro, 267",Desconhecido,Desconhecido
+Alícia Da Rosa,035.***.***-51,85.0,1940-04-05,"trecho luana barros, 338",Desconhecido,Desconhecido
+Lucas Monteiro,739.***.***-75,99.0,1926-12-11,"parque enzo almeida, 62",Desconhecido,Desconhecido
+Rodrigo Caldeira,816.***.***-37,48.0,1976-12-22,condomínio joana lima,Desconhecido,Desconhecido
+Luna Rezende,456.***.***-57,52.0,1972-05-21,"esplanada matheus da costa, 90",Desconhecido,Desconhecido
+Diogo Rezende,680.***.***-24,82.0,1943-12-01,"residencial novaes, 84",Desconhecido,Desconhecido
+Anthony Da Costa,805.***.***-21,66.0,1959-01-09,"praia ian da mota, 383",Desconhecido,Desconhecido
+Maria Cecília Vieira,716.***.***-55,60.0,1965-07-10,rodovia emanuel da cruz,Desconhecido,Desconhecido
+Sra. Maria Julia Novaes,019.***.***-01,43.0,1981-04-27,"ladeira da cruz, 635",Desconhecido,Desconhecido
+João Pedro Peixoto,243.***.***-55,65.0,1960-02-10,"trecho cavalcanti, 3",Desconhecido,Desconhecido
+Alana Fernandes,198.***.***-09,48.0,1976-08-29,"estação rocha, 975",Desconhecido,Desconhecido
+Sra. Mirella Rezende,247.***.***-50,51.0,1973-08-29,"vale de cavalcanti, 98",Desconhecido,Desconhecido
+Gabrielly Moreira,608.***.***-62,54.0,1971-09-18,"lago caldeira, 363",Desconhecido,Desconhecido
+Sra. Sofia Souza,605.***.***-48,92.0,1933-06-14,"vila gomes, 366",Desconhecido,Desconhecido
+Mariane Melo,735.***.***-77,76.0,1949-12-16,"rodovia ana beatriz cardoso, 97",Desconhecido,Desconhecido
+Lorena Souza,048.***.***-49,38.0,1987-06-15,"vereda sales, 83",Desconhecido,Desconhecido
+Fernando Da Mata,280.***.***-08,28.0,1996-06-30,"ladeira clara da cruz, 37",Desconhecido,Desconhecido
+Laura Cardoso,821.***.***-17,30.0,1994-04-26,"setor de costa, 1",Desconhecido,Desconhecido
+Marina Da Cruz,724.***.***-26,52.0,1972-06-21,"avenida castro, 718",Desconhecido,Desconhecido
+Maria Rocha,163.***.***-03,41.0,1984-11-02,"recanto isabel da conceição, 6",Desconhecido,Desconhecido
+Pedro Henrique Almeida,318.***.***-57,47.0,1977-08-25,"núcleo de rodrigues, 95",Desconhecido,Desconhecido
+Dr. Davi Luiz Nunes,604.***.***-16,90.0,1935-08-19,"setor de barros, 58",Desconhecido,Desconhecido
+Vitor Gabriel Costela,175.***.***-43,58.0,1967-04-15,"praia pietra caldeira, 60",Desconhecido,Desconhecido
+Dr. Luigi Barbosa,641.***.***-39,100.0,1924-11-24,"quadra yasmin caldeira, 4",Desconhecido,Desconhecido
+Rodrigo Azevedo,687.***.***-75,24.0,2001-12-06,praia de nogueira,Desconhecido,Desconhecido
+Pedro Henrique Cardoso,324.***.***-04,51.0,1973-05-31,"rua de castro, 65",Desconhecido,Desconhecido
+Sr. João Cardoso,032.***.***-74,20.0,2005-03-03,"pátio antônio da mota, 79",Desconhecido,Desconhecido
+Maria Julia Nunes,381.***.***-35,78.0,1947-10-09,setor de ferreira,Desconhecido,Desconhecido
+Fernanda Duarte,453.***.***-15,24.0,2000-10-31,"vereda da rocha, 6",Desconhecido,Desconhecido
+Marcos Vinicius Oliveira,280.***.***-95,82.0,1943-03-02,"parque de azevedo, 8",Desconhecido,Desconhecido
+Leandro Aragão,124.***.***-32,,1924-10-17,"campo gabriela rodrigues, 9",Desconhecido,Desconhecido
+Maria Alice Vieira,832.***.***-44,70.0,1955-05-04,"via nogueira, 82",Desconhecido,Desconhecido
+Ana Luiza Jesus,541.***.***-91,67.0,1958-06-14,Endereço inválido,Desconhecido,Desconhecido
+Guilherme Cardoso,197.***.***-21,73.0,1952-03-27,"trevo nicole da cruz, 7",Desconhecido,Desconhecido
+Luiz Felipe Azevedo,439.***.***-52,50.0,1975-03-19,"campo erick fernandes, 464",Desconhecido,Desconhecido
+Nathan Araújo,813.***.***-89,62.0,1963-06-14,quadra de martins,Desconhecido,Desconhecido
+Clara Ferreira,467.***.***-28,80.0,1945-01-22,"fazenda de ferreira, 76",Desconhecido,Desconhecido
+Felipe Da Mata,634.***.***-69,87.0,1938-12-02,"estrada gabrielly rocha, 634",Desconhecido,Desconhecido
+Enzo Gabriel Azevedo,789.***.***-48,68.0,1956-04-27,"estação cardoso, 175",Desconhecido,Desconhecido
+Maitê Barbosa,231.***.***-07,22.0,2003-05-18,"estrada duarte, 37",Desconhecido,Desconhecido
+Srta. Isis Da Cruz,073.***.***-78,90.0,1934-08-30,"praia moreira, 20",Desconhecido,Desconhecido
+Otávio Da Mata,835.***.***-29,53.0,1972-05-06,"largo de da cruz, 431",Desconhecido,Desconhecido
+Sophie Castro,165.***.***-09,41.0,1983-05-27,"trevo de moraes, 78",Desconhecido,Desconhecido
+Diogo Da Cunha,263.***.***-60,34.0,1990-05-29,"distrito kaique costa, 17",Desconhecido,Desconhecido
+Benício Fernandes,389.***.***-77,32.0,1993-09-13,"condomínio da cunha, 964",Desconhecido,Desconhecido
+João Pedro Silva,523.***.***-06,46.0,1978-12-25,"praia de almeida, 38",Desconhecido,Desconhecido
+Heloísa Cunha,260.***.***-83,22.0,2003-11-15,"aeroporto santos, 94",Desconhecido,Desconhecido
+Bruno Novaes,190.***.***-93,74.0,1951-04-05,"alameda de da mata, 18",Desconhecido,Desconhecido
+Levi Cavalcanti,291.***.***-55,81.0,1944-03-25,"aeroporto aragão, 8",Desconhecido,Desconhecido
+João Pedro Lopes,407.***.***-96,55.0,1970-04-15,"vereda daniel gonçalves, 6",Desconhecido,Desconhecido
+Heloísa Da Luz,569.***.***-57,62.0,1963-01-03,"conjunto de cunha, 63",Desconhecido,Desconhecido
+Lorena Gomes,298.***.***-65,21.0,2004-03-18,"rodovia de cavalcanti, 47",Desconhecido,Desconhecido
+Milena Vieira,623.***.***-51,98.0,1927-01-05,"loteamento thiago fernandes, 51",Desconhecido,Desconhecido
+Milena Ramos,160.***.***-34,48.0,1977-09-06,praça breno ribeiro,Desconhecido,Desconhecido
+Vitor Hugo Ramos,286.***.***-78,74.0,1951-02-14,"viela alice nogueira, 65",Desconhecido,Desconhecido
+Ana Julia Nascimento,197.***.***-31,65.0,1960-10-04,aeroporto cavalcanti,Desconhecido,Desconhecido
+Dr. Enrico Carvalho,254.***.***-00,56.0,1969-04-10,travessa de santos,Desconhecido,Desconhecido
+Vitor Hugo Cunha,701.***.***-39,92.0,1933-02-02,"passarela isis porto, 38",Desconhecido,Desconhecido
+Dr. Samuel Moura,402.***.***-05,23.0,2001-11-24,"parque daniel pinto, 7",Desconhecido,Desconhecido
+Luana Nascimento,314.***.***-50,32.0,1993-12-13,"vila letícia da paz, 17",Desconhecido,Desconhecido
+Dra. Maria Vitória Viana,250.***.***-00,99.0,1926-03-20,colônia de moura,Desconhecido,Desconhecido
+Sr. Calebe Duarte,936.***.***-04,62.0,1963-05-07,"alameda joão pedro castro, 14",Desconhecido,Desconhecido
+Leonardo Costela,624.***.***-29,33.0,1992-11-16,via de jesus,Desconhecido,Desconhecido
+Benício Moreira,136.***.***-24,45.0,1980-01-21,"feira marcos vinicius da cruz, 317",Desconhecido,Desconhecido
+Lucca Mendes,819.***.***-76,85.0,1940-10-16,"via de ferreira, 44",Desconhecido,Desconhecido
+Sophie Farias,741.***.***-00,89.0,1936-05-09,"aeroporto de ribeiro, 65",Desconhecido,Desconhecido
+Bruna Da Rocha,845.***.***-19,64.0,1961-06-10,"loteamento otávio freitas, 74",Desconhecido,Desconhecido
+Heitor Nascimento,493.***.***-84,82.0,1942-06-30,área maria fernanda pinto,Desconhecido,Desconhecido
+Rafael Porto,629.***.***-30,28.0,1996-04-24,"alameda da mata, 64",Desconhecido,Desconhecido
+Luiz Miguel Da Paz,647.***.***-80,32.0,1993-06-20,"estrada de ribeiro, 73",Desconhecido,Desconhecido
+Srta. Pietra Duarte,913.***.***-04,97.0,1928-07-02,"aeroporto de nascimento, 13",Desconhecido,Desconhecido
+Eloah Cunha,908.***.***-60,24.0,2001-10-13,"chácara de costa, 62",Desconhecido,Desconhecido
+Bruna Rodrigues,625.***.***-67,23.0,2002-04-06,"campo da costa, 719",Desconhecido,Desconhecido
+Felipe Monteiro,172.***.***-68,98.0,1926-12-21,"quadra de monteiro, 43",Desconhecido,Desconhecido
+Isis Campos,178.***.***-41,39.0,1986-01-03,estrada pereira,Desconhecido,Desconhecido
+Vitor Novaes,586.***.***-08,79.0,1946-07-07,"lagoa de da rocha, 60",Desconhecido,Desconhecido
+Yago Porto,907.***.***-01,43.0,1981-07-29,"parque alícia cavalcanti, 234",Desconhecido,Desconhecido
+Guilherme Campos,354.***.***-79,57.0,1968-11-20,"largo de duarte, 24",Desconhecido,Desconhecido
+Vitor Moraes,297.***.***-99,27.0,1998-04-02,"campo enrico lima, 20",Desconhecido,Desconhecido
+João Gabriel Jesus,790.***.***-01,100.0,1925-06-10,"favela martins, 7",Desconhecido,Desconhecido
+Dr. Vitor Hugo Rezende,796.***.***-58,30.0,1995-06-07,"ladeira barros, 84",Desconhecido,Desconhecido
+Dr. Arthur Carvalho,081.***.***-97,40.0,1985-12-10,"jardim silveira, 35",Desconhecido,Desconhecido
+Ryan Mendes,239.***.***-55,46.0,1978-04-27,"viaduto evelyn ribeiro, 56",Desconhecido,Desconhecido
+Ana Laura Silva,485.***.***-47,78.0,1946-04-24,"campo de farias, 77",Desconhecido,Desconhecido
+Lorenzo Novaes,370.***.***-05,45.0,1979-08-31,"loteamento alice freitas, 3",Desconhecido,Desconhecido
+Cauê Cardoso,019.***.***-60,20.0,2005-08-09,"trecho alícia monteiro, 61",Desconhecido,Desconhecido
+Dra. Ana Luiza Silveira,324.***.***-40,84.0,1941-05-07,"alameda pinto, 59",Desconhecido,Desconhecido
+Lavínia Azevedo,318.***.***-03,77.0,1948-10-17,"condomínio larissa teixeira, 216",Desconhecido,Desconhecido
+Letícia Jesus,451.***.***-19,77.0,1947-04-25,"vale de da mata, 75",Desconhecido,Desconhecido
+Bruna Ribeiro,352.***.***-10,73.0,1952-09-11,trevo beatriz cardoso,Desconhecido,Desconhecido
+Theo Da Mata,758.***.***-44,67.0,1958-08-04,"feira souza, 65",Desconhecido,Desconhecido
+João Gabriel Porto,956.***.***-91,53.0,1972-08-14,"fazenda luiza campos, 62",Desconhecido,Desconhecido
+Maria Julia Freitas,178.***.***-53,74.0,1950-08-31,"loteamento de gomes, 86",Desconhecido,Desconhecido
+Dr. Otávio Barros,683.***.***-21,28.0,1997-04-16,"condomínio marina costela, 29",Desconhecido,Desconhecido
+Yasmin Gomes,827.***.***-35,100.0,1924-06-28,"feira letícia nascimento, 5",Desconhecido,Desconhecido
+Sofia Novaes,576.***.***-83,45.0,1979-07-31,"aeroporto de ribeiro, 57",Desconhecido,Desconhecido
+Ian Da Luz,152.***.***-77,36.0,1988-10-26,"feira moura, 2",Desconhecido,Desconhecido
+Davi Luiz Souza,857.***.***-53,78.0,1947-10-04,"favela peixoto, 76",Desconhecido,Desconhecido
+Cecília Araújo,032.***.***-26,21.0,2004-08-02,"distrito rezende, 61",Desconhecido,Desconhecido
+Luiz Gustavo Duarte,381.***.***-44,61.0,1964-10-03,"favela caldeira, 98",Desconhecido,Desconhecido
+Ana Julia Cardoso,704.***.***-88,29.0,1996-10-19,"chácara campos, 423",Desconhecido,Desconhecido
+Gabrielly Lima,560.***.***-30,99.0,1925-06-30,"parque alves, 70",Desconhecido,Desconhecido
+Heloísa Ribeiro,437.***.***-37,65.0,1960-12-19,sítio luiz gustavo cunha,Desconhecido,Desconhecido
+Letícia Costa,530.***.***-70,45.0,1980-05-19,"viela yago oliveira, 70",Desconhecido,Desconhecido
+Ana Beatriz Da Rocha,438.***.***-04,81.0,1944-12-18,"alameda joão fernandes, 25",Desconhecido,Desconhecido
+Benjamin Moura,975.***.***-97,23.0,2002-04-15,"trevo de rezende, 83",Desconhecido,Desconhecido
+Ana Julia Fogaça,103.***.***-70,39.0,1986-05-15,"área de gonçalves, 31",Desconhecido,Desconhecido
+Clara Da Mata,354.***.***-00,42.0,1983-08-09,"aeroporto de gomes, 936",Desconhecido,Desconhecido
+Fernanda Oliveira,102.***.***-14,43.0,1981-10-30,"trevo correia, 72",Desconhecido,Desconhecido
+Laura Das Neves,723.***.***-29,26.0,1999-02-26,"viaduto vitor gabriel ferreira, 32",Desconhecido,Desconhecido
+Lívia Teixeira,694.***.***-29,41.0,1984-05-09,"alameda teixeira, 9",Desconhecido,Desconhecido
+Eloah Moreira,904.***.***-00,91.0,1934-06-08,"pátio de nunes, 3",Desconhecido,Desconhecido
+Lívia Cardoso,619.***.***-61,89.0,1936-05-14,campo de da paz,Desconhecido,Desconhecido
+Augusto Freitas,930.***.***-01,63.0,1961-08-23,"trevo marcos vinicius jesus, 4",Desconhecido,Desconhecido
+Raquel Fernandes,467.***.***-94,77.0,1947-05-24,"parque de teixeira, 132",Desconhecido,Desconhecido
+Sr. Anthony Da Costa,614.***.***-07,34.0,1991-06-12,"área lima, 7",Desconhecido,Desconhecido
+Murilo Melo,431.***.***-80,23.0,2001-11-21,"trecho pires, 10",Desconhecido,Desconhecido
+Srta. Mirella Barbosa,430.***.***-75,86.0,1939-01-31,pátio de da rosa,Desconhecido,Desconhecido
+Gabriela Das Neves,437.***.***-65,42.0,1983-04-17,avenida emilly pereira,Desconhecido,Desconhecido
+Bruno Da Cunha,259.***.***-24,31.0,1994-05-08,quadra costa,Desconhecido,Desconhecido
+Alexandre Rodrigues,740.***.***-85,59.0,1966-07-07,"vale rezende, 20",Desconhecido,Desconhecido
+Natália Rezende,784.***.***-11,62.0,1962-04-30,"sítio nascimento, 64",Desconhecido,Desconhecido
+Emilly Caldeira,732.***.***-07,24.0,2000-05-28,"estrada eduardo porto, 85",Desconhecido,Desconhecido
+Levi Azevedo,639.***.***-91,86.0,1939-02-05,"estação da cruz, 13",Desconhecido,Desconhecido
+Nicole Da Rocha,567.***.***-90,25.0,2000-10-07,"distrito clara viana, 41",Desconhecido,Desconhecido
+Joana Moreira,435.***.***-51,66.0,1959-08-18,"viela de das neves, 139",Desconhecido,Desconhecido
+Maria Eduarda Almeida,573.***.***-56,73.0,1952-03-12,"travessa de barros, 4",Desconhecido,Desconhecido
+Marcela Da Cruz,876.***.***-78,93.0,1932-03-05,"viela viana, 95",Desconhecido,Desconhecido
+Helena Nunes,843.***.***-42,88.0,1937-08-16,"feira vieira, 28",Desconhecido,Desconhecido
+Isaac Oliveira,209.***.***-01,51.0,1973-08-22,"rodovia cardoso, 377",Desconhecido,Desconhecido
+Manuela Pinto,094.***.***-20,41.0,1984-04-13,"praia almeida, 6",Desconhecido,Desconhecido
+Bryan Ramos,681.***.***-94,37.0,1988-06-03,"aeroporto de da rocha, 27",Desconhecido,Desconhecido
+Sr. Enzo Gabriel Fernandes,769.***.***-21,19.0,2005-08-24,"rodovia laís nunes, 50",Desconhecido,Desconhecido
+Brenda Ramos,269.***.***-83,99.0,1926-04-19,"rodovia de souza, 416",Desconhecido,Desconhecido
+Yuri Rezende,564.***.***-89,99.0,1926-04-17,"praia costa, 3",Desconhecido,Desconhecido
+Luiz Miguel Da Costa,630.***.***-34,75.0,1950-03-09,via porto,Desconhecido,Desconhecido
+Enzo Nogueira,187.***.***-69,64.0,1961-08-01,"campo cauã freitas, 66",Desconhecido,Desconhecido
+Davi Lucca Azevedo,035.***.***-10,68.0,1956-09-30,"condomínio cunha, 74",Desconhecido,Desconhecido
+Luiz Otávio Fernandes,716.***.***-85,71.0,1954-08-08,núcleo pietro barros,Desconhecido,Desconhecido
+Thomas Correia,083.***.***-66,78.0,1947-02-14,"aeroporto melo, 31",Desconhecido,Desconhecido
+Davi Lucca Teixeira,647.***.***-26,84.0,1941-11-16,"condomínio de lima, 66",Desconhecido,Desconhecido
+Luiz Gustavo Ribeiro,149.***.***-78,31.0,1994-09-19,"pátio davi lucca viana, 6",Desconhecido,Desconhecido
+Pietra Da Mata,427.***.***-08,67.0,1957-05-27,"feira gonçalves, 4",Desconhecido,Desconhecido
+Joaquim Azevedo,016.***.***-16,70.0,1955-03-25,núcleo viana,Desconhecido,Desconhecido
+Sra. Agatha Melo,506.***.***-60,27.0,1998-02-10,"feira de oliveira, 1",Desconhecido,Desconhecido
+Maria Julia Lopes,613.***.***-68,56.0,1969-04-02,"campo araújo, 10",Desconhecido,Desconhecido
+Dr. Marcelo Cardoso,862.***.***-07,80.0,1945-04-15,lagoa ana sophia oliveira,Desconhecido,Desconhecido
+Catarina Moreira,207.***.***-11,34.0,1991-03-29,"jardim sales, 42",Desconhecido,Desconhecido
+Heitor Vieira,089.***.***-92,75.0,1950-01-27,"morro aragão, 796",Desconhecido,Desconhecido
+Luiz Fernando Da Luz,071.***.***-01,75.0,1950-04-09,"aeroporto pietro oliveira, 4",Desconhecido,Desconhecido
+Sabrina Silva,216.***.***-69,86.0,1939-06-06,"rodovia pedro henrique santos, 46",Desconhecido,Desconhecido
+Luiz Henrique Martins,648.***.***-82,46.0,1978-10-21,"praia ferreira, 17",Desconhecido,Desconhecido
+Catarina Carvalho,196.***.***-10,47.0,1977-05-29,"vila de farias, 46",Desconhecido,Desconhecido
+Ana Vitória Azevedo,529.***.***-01,78.0,1947-08-10,"campo yasmin moreira, 49",Desconhecido,Desconhecido
+Thales Campos,412.***.***-89,82.0,1943-03-08,"avenida lavínia castro, 46",Desconhecido,Desconhecido
+Thales Oliveira,369.***.***-50,83.0,1941-06-24,condomínio levi almeida,Desconhecido,Desconhecido
+Fernanda Cavalcanti,912.***.***-51,71.0,1953-11-28,"viela isis gomes, 43",Desconhecido,Desconhecido
+Dr. João Gabriel Da Conceição,831.***.***-00,47.0,1977-08-31,"jardim luiz felipe duarte, 1",Desconhecido,Desconhecido
+Noah Barros,310.***.***-86,33.0,1991-12-22,"jardim almeida, 48",Desconhecido,Desconhecido
+Dr. Felipe Novaes,685.***.***-59,52.0,1972-10-29,"pátio de ribeiro, 16",Desconhecido,Desconhecido
+Luiz Fernando Aragão,120.***.***-01,21.0,2004-09-15,"ladeira mariane santos, 7",Desconhecido,Desconhecido
+Ana Júlia Cardoso,812.***.***-76,84.0,1941-11-04,"vila silveira, 86",Desconhecido,Desconhecido
+Marina Ramos,068.***.***-10,62.0,1963-05-08,"ladeira duarte, 35",Desconhecido,Desconhecido
+Dra. Joana Lopes,619.***.***-11,58.0,1966-06-26,"viaduto de novaes, 952",Desconhecido,Desconhecido
+Isabel Duarte,146.***.***-87,58.0,1966-12-27,"aeroporto isaac da conceição, 1",Desconhecido,Desconhecido
+Paulo Jesus,078.***.***-92,54.0,1970-04-25,"fazenda de porto, 4",Desconhecido,Desconhecido
+Laura Costa,540.***.***-25,85.0,1940-02-27,"distrito de moraes, 56",Desconhecido,Desconhecido
+Sra. Milena Pinto,280.***.***-24,65.0,1960-02-29,"jardim novaes, 13",Desconhecido,Desconhecido
+Danilo Ribeiro,109.***.***-80,69.0,1956-06-20,"ladeira de da conceição, 76",Desconhecido,Desconhecido
+Lívia Nunes,742.***.***-23,50.0,1975-03-14,"passarela de porto, 65",Desconhecido,Desconhecido
+Alícia Rodrigues,349.***.***-16,52.0,1972-08-26,"travessa de farias, 9",Desconhecido,Desconhecido
+Agatha Rezende,057.***.***-79,95.0,1929-10-25,"parque da luz, 3",Desconhecido,Desconhecido
+Juliana Santos,605.***.***-59,95.0,1930-09-18,"parque de silveira, 6",Desconhecido,Desconhecido
+Maria Fernanda Da Conceição,408.***.***-50,63.0,1961-09-26,"campo santos, 714",Desconhecido,Desconhecido
+Daniela Barbosa,861.***.***-64,37.0,1988-04-19,"área de moreira, 82",Desconhecido,Desconhecido
+Arthur Pinto,562.***.***-25,32.0,1993-07-08,viela kamilly cunha,Desconhecido,Desconhecido
+Emanuel Aragão,910.***.***-57,43.0,1982-09-04,"campo de da cruz, 22",Desconhecido,Desconhecido
+Dra. Alice Vieira,936.***.***-00,78.0,1946-12-28,rodovia cunha,Desconhecido,Desconhecido
+Maria Cecília Moreira,805.***.***-71,66.0,1959-02-18,"passarela joão pedro nunes, 6",Desconhecido,Desconhecido
+,532.***.***-41,75.0,1950-10-01,"estação alves, 8",Desconhecido,Desconhecido
+Maria Vitória Campos,380.***.***-57,57.0,1968-07-05,"viela da costa, 16",Desconhecido,Desconhecido
+Isabel Da Conceição,819.***.***-93,91.0,1934-11-12,"vale nogueira, 8",Desconhecido,Desconhecido
+,013.***.***-69,46.0,1979-09-06,"parque helena pires, 852",Desconhecido,Desconhecido
+Dr. Thomas Nunes,967.***.***-46,83.0,1942-08-14,"vereda da mota, 37",Desconhecido,Desconhecido
+Lucca Moura,718.***.***-35,39.0,1986-12-20,"praia bryan martins, 8",Desconhecido,Desconhecido
+Diogo Souza,169.***.***-95,67.0,1958-07-13,"largo maysa cavalcanti, 6",Desconhecido,Desconhecido
+Juliana Costa,980.***.***-39,55.0,1970-08-20,"alameda de campos, 32",Desconhecido,Desconhecido
+Eduarda Da Costa,739.***.***-48,90.0,1935-07-10,"jardim de lima, 1",Desconhecido,Desconhecido
+Alana Freitas,427.***.***-73,52.0,1973-07-15,aeroporto noah jesus,Desconhecido,Desconhecido
+Murilo Ramos,374.***.***-00,98.0,1927-01-02,"feira jesus, 20",Desconhecido,Desconhecido
+Cecília Souza,294.***.***-30,22.0,2003-04-15,"campo emanuelly gonçalves, 51",Desconhecido,Desconhecido
+Raul Martins,187.***.***-26,98.0,1927-10-17,"alameda de carvalho, 150",Desconhecido,Desconhecido
+Renan Cavalcanti,072.***.***-77,70.0,1954-05-29,"trevo nina pereira, 99",Desconhecido,Desconhecido
+Sr. Diego Pires,842.***.***-41,35.0,1989-10-25,"morro eduarda farias, 92",Desconhecido,Desconhecido
+Sofia Da Rocha,719.***.***-03,59.0,1966-10-08,"vale davi luiz dias, 709",Desconhecido,Desconhecido
+Lorenzo Dias,271.***.***-04,100.0,1925-09-08,"favela elisa barbosa, 521",Desconhecido,Desconhecido
+Sr. Vitor Souza,426.***.***-83,75.0,1950-11-04,"aeroporto laura gonçalves, 7",Desconhecido,Desconhecido
+Vitor Gabriel Cardoso,354.***.***-50,32.0,1993-10-14,"setor de da luz, 81",Desconhecido,Desconhecido
+Pedro Rodrigues,790.***.***-20,100.0,1925-07-17,"trevo de moreira, 63",Desconhecido,Desconhecido
+Eduarda Teixeira,745.***.***-17,77.0,1947-07-26,"ladeira peixoto, 85",Desconhecido,Desconhecido
+Daniel Oliveira,753.***.***-08,36.0,1989-09-09,colônia maitê cardoso,Desconhecido,Desconhecido
+Isadora Nogueira,129.***.***-05,30.0,1994-10-29,"praia de campos, 94",Desconhecido,Desconhecido
+Sr. Fernando Moraes,768.***.***-95,98.0,1927-08-06,"área moreira, 8",Desconhecido,Desconhecido
+Luiza Araújo,246.***.***-10,71.0,1954-03-28,jardim de dias,Desconhecido,Desconhecido
+Maria Luiza Pires,620.***.***-67,47.0,1977-08-23,"viela de gonçalves, 79",Desconhecido,Desconhecido
+João Lucas Das Neves,974.***.***-49,50.0,1975-03-17,"campo de nascimento, 5",Desconhecido,Desconhecido
+Vitor Gabriel Carvalho,387.***.***-92,88.0,1937-08-14,"viaduto farias, 15",Desconhecido,Desconhecido
+Henrique Sales,196.***.***-39,58.0,1966-05-21,"jardim cavalcanti, 94",Desconhecido,Desconhecido
+Henrique Ferreira,360.***.***-07,30.0,1994-10-25,"lago de lopes, 6",Desconhecido,Desconhecido
+Dra. Raquel Da Mota,263.***.***-78,34.0,1991-01-02,"aeroporto de fogaça, 29",Desconhecido,Desconhecido
+Levi Melo,513.***.***-09,37.0,1988-05-03,"travessa de da luz, 42",Desconhecido,Desconhecido
+Ana Luiza Gomes,287.***.***-12,34.0,1991-08-14,"estação de da costa, 211",Desconhecido,Desconhecido
+Isaac Fernandes,572.***.***-07,78.0,1946-04-26,"recanto rodrigues, 80",Desconhecido,Desconhecido
+Leandro Fernandes,018.***.***-15,67.0,1958-10-19,"praia daniel barbosa, 847",Desconhecido,Desconhecido
+Dr. Breno Sales,135.***.***-42,79.0,1946-05-08,estação miguel rodrigues,Desconhecido,Desconhecido
+Rafael Araújo,481.***.***-17,85.0,1939-09-25,"trevo sofia moreira, 67",Desconhecido,Desconhecido
+Eduardo Da Costa,043.***.***-31,75.0,1950-06-14,"quadra de alves, 729",Desconhecido,Desconhecido
+Dra. Larissa Fernandes,562.***.***-00,99.0,1926-07-18,"aeroporto jesus, 2",Desconhecido,Desconhecido
+Milena Da Rocha,864.***.***-49,81.0,1944-01-20,"alameda araújo, 53",Desconhecido,Desconhecido
+Eduarda Aragão,362.***.***-90,78.0,1947-10-07,"viela de sales, 68",Desconhecido,Desconhecido
+Sr. Ian Barbosa,149.***.***-70,67.0,1957-10-27,"morro ryan da luz, 43",Desconhecido,Desconhecido
+Ian Cardoso,731.***.***-78,84.0,1940-04-23,área ferreira,Desconhecido,Desconhecido
+Vitor Gabriel Ferreira,916.***.***-01,54.0,1970-10-29,"conjunto farias, 36",Desconhecido,Desconhecido
+Rodrigo Melo,982.***.***-89,45.0,1980-07-04,praia marina da rosa,Desconhecido,Desconhecido
+Anthony Rezende,831.***.***-66,95.0,1930-07-16,"via de viana, 68",Desconhecido,Desconhecido
+Sra. Bianca Farias,783.***.***-26,33.0,1991-10-30,"viela campos, 2",Desconhecido,Desconhecido
+João Carvalho,298.***.***-50,92.0,1932-10-22,"vereda de aragão, 15",Desconhecido,Desconhecido
+Benício Da Costa,783.***.***-07,30.0,1995-07-03,"vereda de souza, 13",Desconhecido,Desconhecido
+Yuri Alves,896.***.***-03,88.0,1937-10-16,"colônia da costa, 7",Desconhecido,Desconhecido
+Gabriela Da Rosa,210.***.***-31,78.0,1947-12-18,"vale de caldeira, 8",Desconhecido,Desconhecido
+Eduarda Da Conceição,238.***.***-00,100.0,1925-01-09,"praia de silva, 91",Desconhecido,Desconhecido
+Vicente Aragão,875.***.***-88,98.0,1927-11-03,avenida da luz,Desconhecido,Desconhecido
+Srta. Sabrina Teixeira,682.***.***-89,89.0,1936-06-01,"estrada de da rosa, 69",Desconhecido,Desconhecido
+Antônio Santos,198.***.***-03,87.0,1938-09-14,"morro da rocha, 84",Desconhecido,Desconhecido
+Dr. Lucca Pinto,526.***.***-09,22.0,2002-10-26,"estrada sabrina freitas, 40",Desconhecido,Desconhecido
+Emilly Vieira,924.***.***-33,73.0,1952-11-01,"recanto miguel moraes, 45",Desconhecido,Desconhecido
+Dr. Gabriel Da Mata,701.***.***-69,60.0,1965-02-28,"feira de farias, 28",Desconhecido,Desconhecido
+Emanuella Azevedo,406.***.***-01,70.0,1954-11-23,"sítio moura, 50",Desconhecido,Desconhecido
+Ana Julia Rocha,618.***.***-60,49.0,1976-08-18,"trevo davi lucca da cruz, 72",Desconhecido,Desconhecido
+Milena Castro,482.***.***-82,61.0,1964-02-06,"chácara da mota, 218",Desconhecido,Desconhecido
+Lavínia Peixoto,204.***.***-50,74.0,1951-11-08,"feira martins, 78",Desconhecido,Desconhecido
+Enzo Gabriel Gomes,893.***.***-40,30.0,1995-12-20,"setor luiz henrique monteiro, 4",Desconhecido,Desconhecido
+Laura Fogaça,196.***.***-80,36.0,1989-12-12,"chácara de da mota, 4",Desconhecido,Desconhecido
+Sr. Vitor Da Mata,062.***.***-78,62.0,1963-10-06,Endereço inválido,Desconhecido,Desconhecido
+Sophie Pinto,023.***.***-40,30.0,1995-01-27,residencial noah mendes,Desconhecido,Desconhecido
+Sr. Kaique Peixoto,726.***.***-47,63.0,1962-03-20,"fazenda moraes, 80",Desconhecido,Desconhecido
+Luiz Henrique Mendes,248.***.***-76,91.0,1934-01-18,"travessa leandro da mata, 898",Desconhecido,Desconhecido
+Sr. Felipe Barros,569.***.***-57,50.0,1975-04-08,"área raquel moura, 8",Desconhecido,Desconhecido
+Ana Beatriz Pereira,798.***.***-01,55.0,1970-01-01,condomínio de santos,Desconhecido,Desconhecido
+Sr. Rafael Silva,238.***.***-15,27.0,1997-04-26,"estação lara almeida, 67",Desconhecido,Desconhecido
+Dra. Olivia Mendes,189.***.***-05,92.0,1933-10-10,residencial de mendes,Desconhecido,Desconhecido
+Eduardo Sales,052.***.***-74,41.0,1984-12-11,"aeroporto emanuel barros, 4",Desconhecido,Desconhecido
+André Rodrigues,375.***.***-91,74.0,1951-02-18,"trecho gomes, 3",Desconhecido,Desconhecido
+Sophia Cavalcanti,092.***.***-56,92.0,1932-05-25,"alameda paulo da cruz, 70",Desconhecido,Desconhecido
+Carolina Sales,519.***.***-40,33.0,1992-02-06,"residencial pinto, 95",Desconhecido,Desconhecido
+Lucas Monteiro,654.***.***-37,77.0,1947-06-29,"lagoa de silveira, 91",Desconhecido,Desconhecido
+João Felipe Dias,850.***.***-42,53.0,1972-04-03,"condomínio moura, 504",Desconhecido,Desconhecido
+Dr. Ian Fogaça,248.***.***-32,94.0,1931-01-25,distrito de cavalcanti,Desconhecido,Desconhecido
+Lorena Barros,785.***.***-10,84.0,1940-04-24,"favela letícia jesus, 34",Desconhecido,Desconhecido
+Sra. Ana Clara Teixeira,760.***.***-59,50.0,1974-11-23,"feira de da conceição, 796",Desconhecido,Desconhecido
+Natália Monteiro,481.***.***-60,82.0,1942-10-22,morro de ramos,Desconhecido,Desconhecido
+Eduarda Duarte,893.***.***-30,22.0,2003-10-10,"quadra lopes, 69",Desconhecido,Desconhecido
+Larissa Carvalho,632.***.***-37,92.0,1932-05-21,"jardim de carvalho, 5",Desconhecido,Desconhecido
+Lara Moraes,549.***.***-09,20.0,2005-09-02,"vereda araújo, 18",Desconhecido,Desconhecido
+Sophie Da Rosa,254.***.***-50,99.0,1926-10-06,"pátio fernandes, 59",Desconhecido,Desconhecido
+Olivia Martins,391.***.***-39,84.0,1941-04-13,"jardim vinicius caldeira, 28",Desconhecido,Desconhecido
+Thomas Barros,105.***.***-12,73.0,1951-07-31,"passarela de araújo, 123",Desconhecido,Desconhecido
+Davi Luiz Azevedo,478.***.***-31,60.0,1964-11-30,"rodovia eduarda ramos, 87",Desconhecido,Desconhecido
+Danilo Santos,297.***.***-55,99.0,1926-12-17,"viela ana júlia fernandes, 25",Desconhecido,Desconhecido
+Sr. Enzo Porto,496.***.***-67,100.0,1925-04-20,"vereda cauê barbosa, 141",Desconhecido,Desconhecido
+Bianca Alves,304.***.***-57,68.0,1956-11-22,"campo rodrigues, 351",Desconhecido,Desconhecido
+Alexia Das Neves,267.***.***-00,87.0,1938-04-16,"residencial de sales, 5",Desconhecido,Desconhecido
+Esther Campos,523.***.***-53,59.0,1965-07-25,"área de castro, 108",Desconhecido,Desconhecido
+Ana Júlia Freitas,584.***.***-17,59.0,1965-06-28,"estrada fernanda jesus, 2",Desconhecido,Desconhecido
+Maria Vitória Da Mata,826.***.***-76,58.0,1967-01-02,"lagoa pietro da cruz, 524",Desconhecido,Desconhecido
+Ryan Da Mata,172.***.***-80,22.0,2003-06-17,"rodovia de porto, 90",Desconhecido,Desconhecido
+Emilly Ribeiro,584.***.***-05,23.0,2002-03-16,"parque de gomes, 71",Desconhecido,Desconhecido
+Bernardo Pinto,217.***.***-12,96.0,1929-10-07,"esplanada de moura, 30",Desconhecido,Desconhecido
+Nicole Peixoto,829.***.***-89,69.0,1956-12-02,distrito moraes,Desconhecido,Desconhecido
+Isaac Da Conceição,867.***.***-85,77.0,1948-11-10,"lago da luz, 59",Desconhecido,Desconhecido
+Davi Lucca Santos,571.***.***-73,63.0,1962-01-22,"favela beatriz da costa, 77",Desconhecido,Desconhecido
+Paulo Lopes,186.***.***-11,69.0,1956-05-05,"passarela davi lucca lopes, 37",Desconhecido,Desconhecido
+Sophie Vieira,938.***.***-83,38.0,1987-06-09,"vereda de da mota, 564",Desconhecido,Desconhecido
+Rodrigo Da Cruz,648.***.***-11,52.0,1973-01-20,"favela costa, 372",Desconhecido,Desconhecido
+Sr. Samuel Barbosa,903.***.***-23,32.0,1993-12-08,"distrito jesus, 34",Desconhecido,Desconhecido
+Dr. Cauê Ramos,109.***.***-34,71.0,1953-07-26,"viela de castro, 27",Desconhecido,Desconhecido
+Bruno Jesus,354.***.***-42,28.0,1997-03-19,"campo moreira, 48",Desconhecido,Desconhecido
+Lívia Correia,843.***.***-65,53.0,1972-01-20,"favela de da rocha, 6",Desconhecido,Desconhecido
+Enrico Da Rocha,241.***.***-05,28.0,1997-08-11,condomínio maria julia cavalcanti,Desconhecido,Desconhecido
+Rafaela Aragão,269.***.***-22,75.0,1950-06-18,chácara maria fernanda castro,Desconhecido,Desconhecido
+Dr. Marcos Vinicius Farias,475.***.***-80,89.0,1936-01-19,ladeira castro,Desconhecido,Desconhecido
+Larissa Lopes,015.***.***-12,79.0,1946-03-27,"largo cavalcanti, 96",Desconhecido,Desconhecido
+Isadora Carvalho,917.***.***-13,,1924-09-06,"pátio de da paz, 57",Desconhecido,Desconhecido
+Sr. Vitor Da Rocha,234.***.***-51,78.0,1946-05-21,"recanto de novaes, 32",Desconhecido,Desconhecido
+Isadora Pereira,501.***.***-06,93.0,1932-01-08,"jardim stella da costa, 91",Desconhecido,Desconhecido
+Dr. Bernardo Da Cunha,147.***.***-79,51.0,1973-10-24,"residencial marina azevedo, 89",Desconhecido,Desconhecido
+Gabrielly Mendes,954.***.***-50,48.0,1977-04-13,"praça joão rezende, 30",Desconhecido,Desconhecido
+Sr. Bruno Da Mata,473.***.***-99,95.0,1930-03-18,"chácara alice ferreira, 678",Desconhecido,Desconhecido
+Breno Rocha,237.***.***-52,61.0,1964-05-01,estação de rodrigues,Desconhecido,Desconhecido
+Luigi Ferreira,148.***.***-19,71.0,1954-08-11,trevo vieira,Desconhecido,Desconhecido
+Davi Lucca Da Cruz,862.***.***-78,73.0,1952-08-19,"sítio de novaes, 75",Desconhecido,Desconhecido
+Henrique Almeida,824.***.***-31,60.0,1964-10-26,"área da costa, 29",Desconhecido,Desconhecido
+Dr. Vitor Hugo Caldeira,943.***.***-42,37.0,1988-01-29,"feira da costa, 17",Desconhecido,Desconhecido
+Alexia Souza,348.***.***-48,72.0,1953-09-20,"lagoa alves, 97",Desconhecido,Desconhecido
+Luiza Azevedo,683.***.***-92,75.0,1950-10-15,"recanto elisa da mota, 8",Desconhecido,Desconhecido
+Dr. Kaique Da Mota,143.***.***-60,93.0,1932-10-03,"setor vinicius moraes, 475",Desconhecido,Desconhecido
+Laura Lima,051.***.***-41,84.0,1941-07-19,"área oliveira, 91",Desconhecido,Desconhecido
+Raul Rodrigues,039.***.***-05,56.0,1969-03-10,"aeroporto da rocha, 499",Desconhecido,Desconhecido
+Joaquim Melo,305.***.***-21,92.0,1932-11-23,"ladeira ribeiro, 6",Desconhecido,Desconhecido
+Benjamin Cardoso,054.***.***-44,82.0,1943-09-08,"trevo da cunha, 2",Desconhecido,Desconhecido
+João Miguel Lopes,741.***.***-26,35.0,1990-05-07,"via de nunes, 63",Desconhecido,Desconhecido
+Letícia Da Mota,587.***.***-02,25.0,2000-02-26,"travessa de lopes, 205",Desconhecido,Desconhecido
+Levi Da Rocha,840.***.***-92,42.0,1983-10-09,"via brenda cunha, 49",Desconhecido,Desconhecido
+Lorena Caldeira,625.***.***-60,54.0,1971-02-02,"praça ana luiza fernandes, 5",Desconhecido,Desconhecido
+Cauê Nogueira,473.***.***-64,97.0,1927-08-30,recanto melo,Desconhecido,Desconhecido
+Sra. Yasmin Ferreira,805.***.***-68,86.0,1938-08-29,"lago de da cunha, 6",Desconhecido,Desconhecido
+Nicole Almeida,529.***.***-79,91.0,1934-03-05,chácara joão gabriel nogueira,Desconhecido,Desconhecido
+Fernando Pereira,560.***.***-59,48.0,1977-03-11,"trecho de rodrigues, 659",Desconhecido,Desconhecido
+Breno Pereira,916.***.***-91,30.0,1995-08-09,"residencial gabriela azevedo, 35",Desconhecido,Desconhecido
+Clara Dias,190.***.***-50,40.0,1985-11-16,"conjunto da conceição, 39",Desconhecido,Desconhecido
+Dra. Milena Vieira,237.***.***-87,71.0,1954-09-16,"campo camila das neves, 14",Desconhecido,Desconhecido
+Vitor Gabriel Porto,394.***.***-43,88.0,1937-06-14,"residencial luiza correia, 598",Desconhecido,Desconhecido
+Sr. Erick Da Rosa,971.***.***-84,27.0,1998-12-14,núcleo de caldeira,Desconhecido,Desconhecido
+Marcos Vinicius Da Cunha,709.***.***-04,33.0,1991-07-25,"lagoa de rodrigues, 23",Desconhecido,Desconhecido
+Sra. Nina Pires,651.***.***-26,45.0,1979-09-23,"viela eloah cunha, 42",Desconhecido,Desconhecido
+Felipe Ribeiro,259.***.***-60,78.0,1946-10-24,"núcleo maria julia cunha, 21",Desconhecido,Desconhecido
+Maria Julia Porto,864.***.***-07,36.0,1989-01-18,alameda nascimento,Desconhecido,Desconhecido
+Pedro Cardoso,125.***.***-50,36.0,1988-05-28,"travessa de da rosa, 86",Desconhecido,Desconhecido
+Rebeca Da Paz,047.***.***-66,59.0,1966-04-11,"sítio de costa, 5",Desconhecido,Desconhecido
+Enrico Gonçalves,637.***.***-46,85.0,1940-01-24,campo bernardo barros,Desconhecido,Desconhecido
+Murilo Campos,031.***.***-22,99.0,1926-09-20,recanto silva,Desconhecido,Desconhecido
+Olivia Porto,608.***.***-65,39.0,1985-12-23,"conjunto almeida, 3",Desconhecido,Desconhecido
+Mirella Da Conceição,854.***.***-05,40.0,1984-11-21,"pátio joão lucas cardoso, 77",Desconhecido,Desconhecido
+Stephany Cardoso,453.***.***-46,91.0,1934-06-09,"praia luiz gustavo da luz, 83",Desconhecido,Desconhecido
+Sr. Enrico Melo,829.***.***-89,,1924-09-05,"esplanada farias, 252",Desconhecido,Desconhecido
+Dr. Gabriel Souza,432.***.***-52,24.0,2000-06-21,"rodovia de costela, 116",Desconhecido,Desconhecido
+Davi Jesus,914.***.***-70,52.0,1972-11-27,"quadra vieira, 230",Desconhecido,Desconhecido
+Guilherme Freitas,517.***.***-07,45.0,1980-07-12,"trecho de caldeira, 369",Desconhecido,Desconhecido
+Theo Costa,705.***.***-49,83.0,1942-07-20,"largo joão santos, 10",Desconhecido,Desconhecido
+Dr. Gustavo Henrique Das Neves,430.***.***-00,99.0,1925-11-26,"setor juliana fogaça, 605",Desconhecido,Desconhecido
+Maria Luiza Gomes,821.***.***-53,81.0,1944-11-02,"área ana vitória martins, 56",Desconhecido,Desconhecido
+Davi Lucas Peixoto,610.***.***-07,38.0,1987-04-07,"área thomas moraes, 58",Desconhecido,Desconhecido
+Bruna Almeida,610.***.***-57,73.0,1952-03-26,"chácara mendes, 64",Desconhecido,Desconhecido
+Juliana Ramos,846.***.***-05,22.0,2003-07-11,"vale de duarte, 5",Desconhecido,Desconhecido
+Sarah Nascimento,560.***.***-99,78.0,1946-06-30,"alameda das neves, 1",Desconhecido,Desconhecido
+Brenda Da Luz,037.***.***-22,75.0,1950-03-11,"viela danilo farias, 54",Desconhecido,Desconhecido
+Heloísa Da Costa,648.***.***-19,82.0,1943-08-12,"favela correia, 6",Desconhecido,Desconhecido
+Emanuella Araújo,758.***.***-82,65.0,1960-02-21,rodovia maria julia peixoto,Desconhecido,Desconhecido
+Vitor Viana,036.***.***-34,67.0,1958-04-13,"trecho de oliveira, 41",Desconhecido,Desconhecido
+Yago Lopes,720.***.***-59,77.0,1948-05-05,"lagoa danilo fogaça, 756",Desconhecido,Desconhecido
+Lívia Souza,308.***.***-50,37.0,1988-09-11,"colônia de correia, 93",Desconhecido,Desconhecido
+Gabriela Cavalcanti,359.***.***-41,58.0,1967-04-05,"setor oliveira, 4",Desconhecido,Desconhecido
+Enzo Nogueira,309.***.***-00,83.0,1942-01-30,morro de ferreira,Desconhecido,Desconhecido
+Dr. Ian Barbosa,412.***.***-03,92.0,1933-04-10,"alameda eduardo barros, 60",Desconhecido,Desconhecido
+Gabriela Rocha,348.***.***-35,36.0,1989-11-17,"área joaquim nogueira, 98",Desconhecido,Desconhecido
+Maria Julia Martins,576.***.***-12,83.0,1942-11-12,"loteamento de nunes, 83",Desconhecido,Desconhecido
+Dra. Marina Santos,950.***.***-02,59.0,1966-04-11,"viela alana souza, 456",Desconhecido,Desconhecido
+Heloísa Teixeira,635.***.***-07,88.0,1936-05-23,"viela de da cruz, 61",Desconhecido,Desconhecido
+Paulo Farias,593.***.***-15,74.0,1951-11-18,"esplanada thomas pires, 33",Desconhecido,Desconhecido
+Gabrielly Cardoso,127.***.***-43,96.0,1928-07-26,estrada da cruz,Desconhecido,Desconhecido
+Davi Aragão,598.***.***-20,36.0,1988-09-24,"residencial de cardoso, 66",Desconhecido,Desconhecido
+Yago Peixoto,380.***.***-05,96.0,1929-02-12,"condomínio de nunes, 436",Desconhecido,Desconhecido
+Erick Da Conceição,983.***.***-83,61.0,1963-08-25,"morro nunes, 657",Desconhecido,Desconhecido
+Isis Araújo,216.***.***-13,71.0,1954-06-08,"praia de campos, 82",Desconhecido,Desconhecido
+Dr. Nicolas Rezende,460.***.***-49,43.0,1982-07-01,"esplanada marcela castro, 36",Desconhecido,Desconhecido
+Sr. Samuel Nascimento,914.***.***-24,67.0,1958-12-09,setor luana ramos,Desconhecido,Desconhecido
+Sra. Maria Fernanda Barbosa,718.***.***-03,91.0,1934-11-02,"esplanada pedro nascimento, 71",Desconhecido,Desconhecido
+Luiz Felipe Farias,069.***.***-74,81.0,1943-04-26,"favela kaique fogaça, 19",Desconhecido,Desconhecido
+Sr. Calebe Silva,402.***.***-49,62.0,1962-05-24,rodovia de castro,Desconhecido,Desconhecido
+Emanuella Gonçalves,107.***.***-02,71.0,1954-07-17,Endereço inválido,Desconhecido,Desconhecido
+Augusto Oliveira,246.***.***-17,33.0,1992-02-27,"colônia costa, 81",Desconhecido,Desconhecido
+Pedro Azevedo,953.***.***-65,69.0,1956-03-02,"vale vieira, 49",Desconhecido,Desconhecido
+Sra. Maria Luiza Fogaça,650.***.***-06,69.0,1956-12-12,"recanto de moreira, 426",Desconhecido,Desconhecido
+Eduarda Oliveira,365.***.***-83,59.0,1965-09-27,"sítio clarice sales, 99",Desconhecido,Desconhecido
+Paulo Ramos,490.***.***-43,23.0,2002-11-13,sítio azevedo,Desconhecido,Desconhecido
+Beatriz Pires,275.***.***-21,35.0,1990-03-11,recanto de castro,Desconhecido,Desconhecido
+Fernando Azevedo,790.***.***-99,30.0,1995-05-19,"estação rafael nunes, 90",Desconhecido,Desconhecido
+Eloah Silva,037.***.***-61,90.0,1935-03-30,"viela da rocha, 160",Desconhecido,Desconhecido
+Caio Araújo,407.***.***-14,36.0,1989-12-18,"morro ribeiro, 11",Desconhecido,Desconhecido
+Sra. Valentina Sales,269.***.***-31,86.0,1939-08-08,"sítio ramos, 73",Desconhecido,Desconhecido
+Melissa Cunha,719.***.***-73,26.0,1999-02-17,"ladeira luiza pinto, 9",Desconhecido,Desconhecido
+Laís Da Paz,139.***.***-33,98.0,1927-01-09,"lagoa cavalcanti, 12",Desconhecido,Desconhecido
+Heitor Silveira,183.***.***-89,90.0,1935-02-19,avenida azevedo,Desconhecido,Desconhecido
+Fernanda Moraes,064.***.***-44,46.0,1979-03-18,"avenida rocha, 13",Desconhecido,Desconhecido
+Alana Souza,801.***.***-42,52.0,1973-12-06,"praia moreira, 1",Desconhecido,Desconhecido
+Srta. Caroline Da Rosa,192.***.***-98,52.0,1972-05-26,"passarela rocha, 96",Desconhecido,Desconhecido
+Stephany Vieira,682.***.***-22,47.0,1977-05-22,"travessa guilherme carvalho, 7",Desconhecido,Desconhecido
+Enzo Barros,794.***.***-16,68.0,1957-01-13,"estação fernandes, 85",Desconhecido,Desconhecido
+Caroline Peixoto,036.***.***-30,68.0,1957-11-02,"loteamento thales pires, 51",Desconhecido,Desconhecido
+Maria Vitória Novaes,804.***.***-58,41.0,1984-08-08,"via vieira, 26",Desconhecido,Desconhecido
+Bruna Moura,240.***.***-06,95.0,1930-02-13,"quadra amanda martins, 4",Desconhecido,Desconhecido
+Maitê Peixoto,501.***.***-58,63.0,1962-04-07,"distrito caldeira, 95",Desconhecido,Desconhecido
+Dr. Anthony Barbosa,749.***.***-20,21.0,2004-03-18,"distrito de fogaça, 13",Desconhecido,Desconhecido
+Alexandre Jesus,269.***.***-34,70.0,1955-03-01,"aeroporto de fogaça, 74",Desconhecido,Desconhecido
+Marcos Vinicius Campos,421.***.***-22,47.0,1978-11-19,"trecho de barbosa, 7",Desconhecido,Desconhecido
+Rebeca Da Rosa,640.***.***-22,12.0,2013-01-01,trecho da mata,Desconhecido,Desconhecido
+Henrique Monteiro,378.***.***-73,7.0,2018-03-09,"largo theo silva, 91",Desconhecido,Desconhecido
+Luigi Da Rosa,316.***.***-87,6.0,2018-08-23,"pátio de rocha, 4",Desconhecido,Desconhecido
+Melissa Dias,170.***.***-05,11.0,2014-02-21,"quadra isabel castro, 40",Desconhecido,Desconhecido
+Igor Ramos,695.***.***-77,7.0,2017-06-29,"lago de caldeira, 4",Desconhecido,Desconhecido
+Alice Cardoso,123.***.***-09,6.0,2019-10-14,"viaduto araújo, 76",Desconhecido,Desconhecido
+Breno Freitas,205.***.***-41,17.0,2008-03-03,"loteamento de ferreira, 24",Desconhecido,Desconhecido
+Ana Lívia Da Paz,347.***.***-69,19.0,2006-09-01,"ladeira gomes, 10",Desconhecido,Desconhecido
+Sr. Daniel Cavalcanti,609.***.***-33,7.0,2018-01-09,"núcleo de da paz, 894",Desconhecido,Desconhecido
+Sr. Pedro Cavalcanti,863.***.***-84,3.0,2022-12-20,recanto de melo,Desconhecido,Desconhecido
+Nome inválido,930.***.***-38,40.0,1985-10-14,"colônia da rocha, 31",Desconhecido,Desconhecido
+Nome inválido,146.***.***-00,94.0,1930-08-27,"estrada nogueira, 21",Desconhecido,Desconhecido
+Renan Da Luz,294.***.***-23,75.0,1949-07-29,rua não cadastrada,Desconhecido,Desconhecido
+Caroline Costa,401.***.***-88,22.0,2003-02-20,rua não cadastrada,Desconhecido,Desconhecido
+Giovanna Farias,241.***.***-35,42.0,1983-08-14,rua não cadastrada,Desconhecido,Desconhecido
+Maitê Araújo,496.***.***-55,54.0,1971-07-10,rua não cadastrada,Desconhecido,Desconhecido
+Lavínia Da Mota,039.***.***-00,22.0,2003-01-31,rua não cadastrada,Desconhecido,Desconhecido
+Igor Cardoso,345.***.***-05,50.0,1975-01-25,rua não cadastrada,Desconhecido,Desconhecido
+Maria Julia Campos,018.***.***-13,100.0,1925-08-08,rua não cadastrada,Desconhecido,Desconhecido
+Marcos Vinicius Das Neves,617.***.***-02,87.0,1938-03-23,rua não cadastrada,Desconhecido,Desconhecido
+Isabel Barbosa,986.***.***-02,28.0,1997-12-17,rua não cadastrada,Desconhecido,Desconhecido
+Ryan Gomes,861.***.***-60,59.0,1966-05-17,rua não cadastrada,Desconhecido,Desconhecido
+Breno Duarte,463.***.***-98,68.0,1957-10-07,rua não cadastrada,Desconhecido,Desconhecido
+Eloah Peixoto,064.***.***-16,80.0,1944-05-23,rua não cadastrada,Desconhecido,Desconhecido
+Luiza Sales,726.***.***-80,57.0,1968-05-01,rua não cadastrada,Desconhecido,Desconhecido
+Dr. Alexandre Sales,427.***.***-40,89.0,1936-06-05,rua não cadastrada,Desconhecido,Desconhecido
+Alícia Campos,162.***.***-94,50.0,1975-03-20,rua não cadastrada,Desconhecido,Desconhecido
+Luigi Porto,826.***.***-83,45.0,1980-08-18,"parque de santos, 88",Desconhecido,Desconhecido
