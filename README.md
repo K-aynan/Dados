@@ -1,285 +1,223 @@
-# estudo_lambda.py
-# Elevação ao Cubo em Python com Pandas
+# 📁 Data Processing Scripts (Pandas + Python)
 
-Este arquivo demonstra duas formas diferentes de elevar números ao cubo e aplicar isso a uma coluna de um DataFrame utilizando a biblioteca `pandas`.
-
-## 💡 Definindo Operações
-
-- Uma função tradicional é usada para retornar um valor ao cubo com a instrução `return x ** 3`.
-- Em paralelo, uma função `lambda`, que é anônima e definida em uma única linha, realiza o mesmo cálculo.
-
-## 🔢 Trabalhando com o DataFrame
-
-- Um DataFrame é criado com uma coluna chamada `'numeros'` contendo inteiros.
-- Duas novas colunas são adicionadas:
-  - Uma aplica a **função tradicional** sobre cada valor da coluna original.
-  - A outra aplica a **lambda**.
-
-## 🔍 Objetivo
-
-Comparar os resultados da função comum com a lambda e demonstrar como ambas podem ser utilizadas com o método `.apply()` do `pandas` para aplicar transformações em colunas.
-
-## ✅ Resultado Esperado
-
-- Uma tabela com três colunas:
-  - A original com os números.
-  - Uma com os números elevados ao cubo usando função.
-  - Outra com os cubos obtidos pela lambda.
-
-# intro_tratamento_dados.py
-# Análise Exploratória de Dados com Pandas
-
-Este arquivo realiza uma inspeção inicial de um conjunto de dados armazenado em um arquivo CSV, utilizando ferramentas da biblioteca `pandas`.
-
-## 📄 Leitura de Dados
-
-- Um arquivo CSV chamado `clientes.csv` é carregado em um DataFrame.
-- A leitura é feita com `pandas`, o que transforma os dados em uma estrutura tabular para análise.
-
-## 🔍 Primeiras Impressões
-
-- As **primeiras 5 linhas** são exibidas com `head()`.
-- As **últimas 5 linhas** com `tail()`.
-- Ambas as visualizações usam `to_string()` para evitar truncamento de colunas.
-
-## 📐 Dimensões
-
-- A quantidade total de linhas e colunas é exibida usando `.shape`.
-- O retorno tem o formato `(n_linhas, n_colunas)`.
-
-## 🧬 Tipagem
-
-- A função `dtypes` revela o tipo de dado de cada coluna:
-  - Por exemplo: texto (`object`), números inteiros (`int64`), etc.
-
-## 🚨 Valores Nulos
-
-- Usa-se `.isnull().sum()` para:
-  - Identificar quantos valores ausentes (`NaN`) existem por coluna.
-  - A soma dá uma visão clara de colunas com dados incompletos.
-
-## 📌 Conclusão
-
-Esse script é útil para uma **primeira análise exploratória** e permite:
-- Detectar colunas problemáticas,
-- Entender o tipo de cada dado,
-- E se preparar para etapas de limpeza e transformação.
-
-# 🧼 Limpeza e Tratamento de Dados com Pandas
-
-Este processo realiza uma limpeza completa em um DataFrame criado a partir de um arquivo CSV contendo dados de clientes. Abaixo, estão os passos explicados de forma detalhada:
+This collection of Python scripts demonstrates various data transformation, cleaning, and inspection techniques using the `pandas`, `numpy`, and `scipy` libraries.
 
 ---
 
-# Limpeza_dados.py
-## 📥 1. Leitura dos Dados
+## 📌 `estudo_lambda.py`
 
-- Um arquivo chamado `clientes.csv` é carregado em um DataFrame.
-- As opções de visualização são ajustadas para exibir o conteúdo completo sem quebra de linha.
+### 🎯 Cubing Numbers in Python with Pandas
 
----
+This script shows two different methods to cube numbers and apply them to a column in a Pandas DataFrame.
 
-## 🧹 2. Remoção de Dados
+### 💡 Defining Operations
 
-- Verifica-se se uma coluna chamada `'pais'` existe e, se existir, ela é removida.
-- Uma linha específica (identificada por índice) também é excluída.
+- A **regular function** is created to return a number cubed (`x ** 3`).
+- A **lambda function** (anonymous one-liner) performs the same operation.
 
----
+### 🔢 DataFrame Transformation
 
-## ✏️ 3. Normalização de Texto
+- A DataFrame with a `'numbers'` column is created.
+- Two new columns are added:
+  - One using the **traditional function** via `.apply()`.
+  - Another using the **lambda function** via `.apply()`.
 
-- A coluna com nomes recebe formatação de título (primeira letra maiúscula).
-- A coluna de endereços é convertida para letras minúsculas.
-- A coluna de estados tem espaços removidos e letras transformadas para maiúsculas.
+### ✅ Expected Output
 
----
-
-## 🔄 4. Conversão de Tipos de Dados
-
-- A coluna de idades é convertida explicitamente para o tipo inteiro.
+The resulting DataFrame should contain:
+- The original numbers.
+- The cubed values (via the regular function).
+- The cubed values (via the lambda function).
 
 ---
 
-## ❌ 5. Tratamento de Valores Ausentes
+## 📌 `intro_tratamento_dados.py`
 
-Várias abordagens são usadas:
+### 📊 Exploratory Data Analysis with Pandas
 
-- Substituição de valores nulos por `0`.
-- Remoção completa de linhas com qualquer valor nulo.
-- Manutenção apenas de registros que possuem pelo menos **4 valores não nulos**.
-- Remoção de linhas onde o campo `'cpf'` está vazio.
+Performs an initial inspection of the dataset found in `clientes.csv`.
 
-Além disso:
+### 📥 Data Loading
 
-- Coluna `'estado'` recebe o valor `'Desconhecido'` se estiver vazia.
-- Endereços ausentes recebem o texto `'Endereco nao informado'`.
-- Para a coluna `'idade'`, quando houver valores ausentes, eles são preenchidos com a **média** dessa coluna.
+- Loads `clientes.csv` into a DataFrame.
+- Display settings are adjusted to prevent column truncation.
 
----
+### 🔍 First Look at the Data
 
-## 📅 6. Conversão de Datas
+- Shows the **first 5 rows** using `head()`.
+- Shows the **last 5 rows** using `tail()`.
+- Uses `.to_string()` for full-width visibility.
 
-- Uma nova coluna é criada com as datas convertidas para o formato `datetime` com base no padrão `dia/mês/ano`.
-- Erros na conversão são tratados e substituídos por valores nulos (`NaT`).
+### 📐 Shape and Structure
 
----
+- Uses `.shape` to return `(rows, columns)`.
+- Uses `.dtypes` to display column data types (e.g., `int64`, `object`).
 
-## 📛 7. Tratamento de Duplicatas
+### 🚨 Null Values
 
-- O número de linhas antes e depois da remoção de duplicatas é exibido.
-- Duplicatas são eliminadas com base na coluna `'cpf'`, garantindo registros únicos por cliente.
+- `.isnull().sum()` shows the number of missing values in each column.
 
----
+### ✅ Summary
 
-## 💾 8. Salvando o Resultado Final
-
-- As colunas antigas de data e idade são substituídas pelas versões tratadas.
-- Um novo DataFrame com colunas selecionadas é criado para exportação.
-- O resultado final é salvo em um novo arquivo CSV chamado `clientes_limpeza.csv`.
+A simple script to explore the structure and health of the dataset before deeper processing.
 
 ---
 
-## 📈 9. Verificação Final
+## 📌 `limpeza_dados.py`
 
-- O novo arquivo CSV é carregado e exibido para garantir que os dados limpos foram corretamente salvos.
+### 🧼 Data Cleaning and Standardization
 
----
+Processes and cleans the `clientes.csv` dataset using several standard data cleaning techniques.
 
-🎯 **Resumo**: Esse processo é essencial em projetos de ciência de dados para garantir que os dados estejam limpos, padronizados, completos e prontos para análise ou modelagem.
+### 📥 1. Load Data
 
-# outliers
-# 🚨 Detecção e Remoção de Outliers com Pandas e SciPy
+- Loads the raw data into a DataFrame.
+- Adjusts Pandas display settings for better visibility.
 
-Este script realiza a limpeza avançada dos dados de clientes, com foco especial na remoção de *outliers* e validação de campos. Abaixo, está um guia detalhado das etapas realizadas:
+### 🧹 2. Column and Row Removal
 
----
+- Drops the `'pais'` column if it exists.
+- Removes specific rows (e.g., by index).
 
-## 📂 1. Leitura dos Dados
+### ✏️ 3. Text Normalization
 
-- Um DataFrame é criado a partir do arquivo `clientes_limpeza.csv`.
-- A visualização do Pandas é configurada para não quebrar as linhas no console.
+- Capitalizes names (`str.title()`).
+- Converts addresses to lowercase.
+- Strips and capitalizes state codes.
 
----
+### 🔁 4. Data Type Conversion
 
-## 🔍 2. Filtro Básico de Idades
+- Converts the `'idade'` column to `int`.
 
-- Um primeiro filtro simples é aplicado para remover registros com idade igual ou superior a 100 anos.
-- Apenas os registros com idade inferior são mantidos nesse subconjunto.
+### ❌ 5. Handling Missing Values
 
----
+- Replaces nulls with 0.
+- Drops rows with any missing value.
+- Keeps rows with at least 4 non-null values.
+- Drops rows with an empty `'cpf'` field.
+- Fills empty `'estado'` with `"Desconhecido"`.
+- Fills missing addresses with `"Endereco nao informado"`.
+- Fills missing ages with the mean of the column.
 
-## 📊 3. Detecção de Outliers com Z-Score
+### 📅 6. Date Conversion
 
-- Os valores de idade são padronizados usando o **Z-score**, que mede o quão distante um valor está da média, em desvios-padrão.
-- Registros com Z-score igual ou maior que 3 são considerados *outliers* e são listados.
-- Um novo DataFrame é criado apenas com os registros dentro do intervalo aceitável de Z-score.
+- Converts date strings to datetime objects (`dd/mm/yyyy`).
+- Invalid formats become `NaT`.
 
----
+### 📛 7. Duplicate Removal
 
-## 📈 4. Detecção de Outliers com IQR
+- Removes duplicates based on `'cpf'`.
 
-- O **Intervalo Interquartil (IQR)** é calculado com base nos quartis 1 (Q1) e 3 (Q3).
-- Limites inferior e superior são definidos com uma margem multiplicada por 1.15 para dar mais tolerância.
-- Registros fora desses limites são identificados como *outliers*.
-- Um novo DataFrame é criado mantendo apenas os valores dentro do intervalo IQR.
+### 💾 8. Final Export
 
----
+- Saves cleaned data to `clientes_limpeza.csv`.
 
-## ✋ 5. Filtro Manual de Outliers
+### 📈 9. Final Check
 
-- Uma abordagem direta é usada: manter apenas registros com idade entre 1 e 100 anos.
-
----
-
-## 🏡 6. Validação de Endereços
-
-- Endereços são validados com base no número de linhas (divididas por quebra de linha `\n`).
-- Se o número de partes for inferior a 3, o endereço é marcado como **inválido**.
+- Reads back the saved CSV to verify the cleaning process.
 
 ---
 
-## 🧾 7. Tratamento de Nomes
+## 📌 `outliers.py`
 
-- Nomes com mais de 50 caracteres são substituídos pela marcação `"Nome inválido"`.
-- O total de registros com nomes considerados inválidos é contabilizado e exibido.
+### 🚨 Outlier Detection and Removal
 
----
+Cleans client data by removing statistical outliers and validating fields.
 
-## 📤 8. Salvando os Dados Finais
+### 📥 1. Load Cleaned Data
 
-- Os dados limpos, sem outliers e com campos verificados, são salvos em um novo arquivo chamado `clientes_remove_outliers.csv`.
+- Reads `clientes_limpeza.csv`.
 
----
+### 🔍 2. Basic Age Filter
 
-🎯 **Resumo Final**:
-Este fluxo é crucial para garantir que os dados usados em análises estatísticas ou modelos de machine learning estejam limpos, consistentes e sem valores extremos que possam distorcer os resultados.
+- Removes entries where `idade >= 100`.
 
-# Inconsistencia.py
-# 📄 Limpeza e Tratamento Avançado de Dados Pessoais em um DataFrame
+### 📊 3. Z-Score Outlier Detection
 
-Este guia documenta o processo de limpeza, padronização e anonimização de um conjunto de dados de clientes utilizando `pandas` e `numpy`.
+- Computes Z-scores for `'idade'`.
+- Values with `z >= 3` are considered outliers.
+- Filters DataFrame to only keep acceptable values.
 
----
+### 📈 4. IQR Outlier Detection
 
-## 🧹 1. Leitura Inicial do Arquivo
+- Calculates Q1, Q3, and IQR.
+- Sets bounds:  
+  `lower = Q1 - 1.15 * IQR`,  
+  `upper = Q3 + 1.15 * IQR`.
+- Filters out ages outside the bounds.
 
-- O arquivo CSV com os dados originais de clientes é carregado em um DataFrame.
-- As opções de exibição do Pandas são ajustadas para mostrar colunas e conteúdos longos de forma completa.
+### ✋ 5. Manual Filtering
 
----
+- Keeps only ages between 1 and 100.
 
-## 🕵️‍♂️ 2. Anonimização de Dados Pessoais
+### 🏡 6. Address Validation
 
-- O campo **CPF** é mascarado, substituindo os dígitos do meio por asteriscos (`***.***`) e mantendo apenas os três primeiros e os dois últimos.
-- Registros inválidos (com menos de 11 caracteres) são marcados como `'CPF inválido'`.
+- Marks as invalid if address has fewer than 3 lines (`\n` separated).
 
----
+### 🧾 7. Name Validation
 
-## 📅 3. Correção de Datas
+- Names longer than 50 characters are flagged as `"Nome inválido"`.
 
-- As datas são convertidas para o formato `datetime`, tratando erros de formatação com um valor nulo (`NaT`).
-- Para garantir consistência, datas futuras são substituídas por uma data padrão: `1900-01-01`.
-- A idade é recalculada com base no ano atual, ajustando para o mês e o dia de nascimento.
-- Idades acima de 100 anos são consideradas inconsistentes e substituídas por `NaN`.
+### 📤 8. Save Cleaned Data
 
----
-
-## 🏘️ 4. Extração e Validação de Endereços
-
-- O campo de endereço, originalmente contendo múltiplas linhas, é dividido:
-  - O endereço principal é extraído da primeira linha.
-  - O **bairro** é retirado da segunda linha, se existir.
-  - A **sigla do estado** é capturada da parte final, separada por `' / '`.
-- Endereços muito curtos ou muito longos são marcados como inválidos.
+- Saves final DataFrame to `clientes_remove_outliers.csv`.
 
 ---
 
-## 📌 5. Validação de Estados
+## 📌 `inconsistencia.py`
 
-- Os estados são convertidos para letras maiúsculas.
-- Apenas siglas válidas do Brasil são mantidas; o restante é substituído por `'Desconhecido'`.
+### 📄 Advanced Cleaning and Personal Data Sanitization
+
+Handles deeper inconsistencies and applies anonymization to personal data.
+
+### 🧹 1. Load Initial Data
+
+- Loads `clientes.csv` and adjusts display settings.
+
+### 🕵️‍♂️ 2. Personal Data Masking
+
+- Masks CPF as `123.***.***-45`.
+- Short or missing CPFs become `"CPF inválido"`.
+
+### 📅 3. Date Correction
+
+- Converts dates to `datetime`.
+- Replaces future dates with `1900-01-01`.
+- Calculates adjusted age.
+- Invalid ages (`>100`) become `NaN`.
+
+### 🏘️ 4. Address Extraction
+
+- Splits address field by line breaks:
+  - Line 1 → street
+  - Line 2 → neighborhood
+  - Last part after `' / '` → state
+- Invalid if too short/long.
+
+### 📌 5. State Validation
+
+- Converts to uppercase and trims.
+- Retains only valid Brazilian states.
+- Others become `"Desconhecido"`.
+
+### 🔁 6. Final Substitutions
+
+- Replaces original fields (`cpf`, `idade`, `endereco`, `estado`) with cleaned versions.
+- Selects only relevant columns for final DataFrame.
+
+### 💾 7. Export Final Version
+
+- Saves to `clientes_tratados.csv`.
+- Reads back the CSV for confirmation.
 
 ---
 
-## 🔁 6. Substituições Finais
+## ✅ Summary
 
-- O CPF original é substituído pela versão mascarada.
-- A idade original é trocada pela idade ajustada.
-- Os campos de endereço e estado também são substituídos pelas versões tratadas.
-- Um novo DataFrame é formado contendo apenas os campos finais desejados.
+These scripts form a complete pipeline for real-world data preparation, covering:
 
----
-
-## 💾 7. Exportação dos Dados
-
-- O DataFrame tratado é salvo em um novo arquivo: `clientes_tratados.csv`.
-- Esse novo arquivo é lido e exibido para verificação dos dados processados.
-
----
-
-✅ **Resultado**:
-Esse processo garante que os dados estejam:
-- Completos e padronizados;
-- Corrigidos de inconsistências de datas e endereços;
-- Anonimizados para preservar a privacidade.
-
+- 🧼 Text and format cleaning
+- 🔍 Null and outlier handling
+- 📅 Date parsing and validation
+- 🕵️‍♀️ Personal data anonymization
+- 💾 Exporting clean, structured datasets ready for analysis or modeling
