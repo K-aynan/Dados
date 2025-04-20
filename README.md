@@ -1,4 +1,4 @@
-#estudo_lambda.py
+# estudo_lambda.py
 # Elevação ao Cubo em Python com Pandas
 
 Este arquivo demonstra duas formas diferentes de elevar números ao cubo e aplicar isso a uma coluna de um DataFrame utilizando a biblioteca `pandas`.
@@ -26,7 +26,7 @@ Comparar os resultados da função comum com a lambda e demonstrar como ambas po
   - Uma com os números elevados ao cubo usando função.
   - Outra com os cubos obtidos pela lambda.
 
-#intro_tratamento_dados.py
+# intro_tratamento_dados.py
 # Análise Exploratória de Dados com Pandas
 
 Este arquivo realiza uma inspeção inicial de um conjunto de dados armazenado em um arquivo CSV, utilizando ferramentas da biblioteca `pandas`.
@@ -71,7 +71,7 @@ Este processo realiza uma limpeza completa em um DataFrame criado a partir de um
 
 ---
 
-#Limpeza_dados.py
+# Limpeza_dados.py
 ## 📥 1. Leitura dos Dados
 
 - Um arquivo chamado `clientes.csv` é carregado em um DataFrame.
@@ -147,7 +147,7 @@ Além disso:
 
 🎯 **Resumo**: Esse processo é essencial em projetos de ciência de dados para garantir que os dados estejam limpos, padronizados, completos e prontos para análise ou modelagem.
 
-#outliers
+# outliers
 # 🚨 Detecção e Remoção de Outliers com Pandas e SciPy
 
 Este script realiza a limpeza avançada dos dados de clientes, com foco especial na remoção de *outliers* e validação de campos. Abaixo, está um guia detalhado das etapas realizadas:
@@ -214,7 +214,7 @@ Este script realiza a limpeza avançada dos dados de clientes, com foco especial
 🎯 **Resumo Final**:
 Este fluxo é crucial para garantir que os dados usados em análises estatísticas ou modelos de machine learning estejam limpos, consistentes e sem valores extremos que possam distorcer os resultados.
 
-#Inconsistencia.py
+# Inconsistencia.py
 # 📄 Limpeza e Tratamento Avançado de Dados Pessoais em um DataFrame
 
 Este guia documenta o processo de limpeza, padronização e anonimização de um conjunto de dados de clientes utilizando `pandas` e `numpy`.
